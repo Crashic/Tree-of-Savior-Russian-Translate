@@ -78,7 +78,7 @@ QUEST_20150317_000077	Hello! {nl}Welcome to the Klaipeda branch of the Mage Soci
 QUEST_20150317_000078	There's nothing to see here but steam and Vubbes. {nl}Wait, what's that thing with the big face that's approaching?!
 QUEST_20150317_000079	The land needs our attention as well. {nl}The world still isn't ruined… right?
 QUEST_20150317_000080	If we stayed respectful, then we'd still have that favor and knowledge. {nl}We should all consider whether or not this mess is our fault because we relied on the Goddess for everything.
-QUEST_20150317_000081	Доска объявлений
+QUEST_20150317_000081	Объявление
 QUEST_20150317_000082	Welcome to the mining town of Klaipeda!
 QUEST_20150317_000083	Indifferent Widow
 QUEST_20150317_000084	I'm not sure I understand it completely, but what I'm sure of is that the Goddesses didn't disappear all at once.
@@ -818,7 +818,7 @@ QUEST_20150317_000817	Attention to those who come to Klaipeda after having a dre
 QUEST_20150317_000818	Welcome to Klaipeda Shopping Center. {nl}You can shop for a variety of accessories, tools, equipment, and other items.
 QUEST_20150317_000819	Use the stairs on the right to go to the Klaipeda Central Plaza.
 QUEST_20150317_000820	Klaipeda Central Plaza
-QUEST_20150317_000821	Signboard
+QUEST_20150317_000821	Вывеска
 QUEST_20150317_000822	East Siauliai Woods
 QUEST_20150317_000823	{memo X}It is unknown who the statue honors or how old it is. {nl}But it certainly has mysterious powers that move selected people to other areas.
 QUEST_20150317_000824	Good job. {nl}I have done my task. {nl}It is my time now.
@@ -827,8 +827,8 @@ QUEST_20150317_000826	Ah…
 QUEST_20150317_000827	Danger! The vacant lot below these crossroads {nl}has regularly seen dangerous monsters. Entrance is forbidden! {nl} - The Fedimian Market
 QUEST_20150317_000828	People are now praying less and less to the Goddesses. {nl}They're losing hope…
 QUEST_20150317_000829	How could I forget you… {nl}Please do not roam around this cursed land {nl}and go to the arms of the Goddess.
-QUEST_20150317_000830	Holiday Notice
-QUEST_20150317_000831	I have been enlisted to the army to save the kingdom. {nl}Therefore, the restaurant will be closed in the meantime. {nl} - Owner of Klaipeda's Specialty Restaurant, Vulinya
+QUEST_20150317_000830	Примечание
+QUEST_20150317_000831	Я был зачислен в армию, чтобы спасти королевство.{nl}Таким образом, ресторан будет закрыт на какое то время.{nl}- Владелец специальных ресторанов Клайпеды, Vulinya
 QUEST_20150317_000832	Don't blow out the candles. {nl}They guide the souls so they don't lose their way.
 QUEST_20150317_000833	As you know, the King died on Medzio Diena and the fate of other royalty and nobility were no different. {nl}The kingdom is holding together somehow but… now we can only pray.
 QUEST_20150317_000834	{memo X}Now we can only pray…
