@@ -1638,8 +1638,8 @@ SKILL_20150317_001635	Deadly poison
 SKILL_20150317_001636	Receive poison damage periodically.
 SKILL_20150317_001637	Contagious deadly poison
 SKILL_20150317_001638	Attack reduction. Periodically receive the poison damage. The effect is transfered to targets around.
-SKILL_20150317_001639	Evasion
-SKILL_20150317_001640	Evasion.
+SKILL_20150317_001639	Уклонение
+SKILL_20150317_001640	Уклонение.
 SKILL_20150317_001641	Defense Shock
 SKILL_20150317_001642	Blocked by enemy and fall in to shock state. Chance of enemy attacks to hit critical will increase by100%.
 SKILL_20150317_001643	Petrify
