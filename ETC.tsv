@@ -3111,16 +3111,16 @@ ETC_20150317_003110	Insufficient It tag participants
 ETC_20150317_003111	Give session to PC participant
 ETC_20150317_003112	End It tag
 ETC_20150317_003113	{memo X}A Treasure Vubbe has appeared!
-ETC_20150317_003114	The inhibiting group has been destroyed. Please start the quest again!
-ETC_20150317_003115	Close
-ETC_20150317_003116	Monument leading to the  second floor appeared
-ETC_20150317_003117	Monument leading to the  second floor appeared {nl}
-ETC_20150317_003118	Protect the group leader!
-ETC_20150317_003119	Stop them!
-ETC_20150317_003120	Help!
-ETC_20150317_003121	Where did they come from??
-ETC_20150317_003122	Ugh!
-ETC_20150317_003123	Watch out for the monsters.
+ETC_20150317_003114	Сдерживающая группа была уничтожена. Пожалуйста, начните задание снова!
+ETC_20150317_003115	Закрыть
+ETC_20150317_003116	Появился монумент, ведущий на второй этаж
+ETC_20150317_003117	Появился монумент, ведущий на второй этаж  {nl}
+ETC_20150317_003118	Защищайте лидера группы!
+ETC_20150317_003119	Остановите их!
+ETC_20150317_003120	Помогите!
+ETC_20150317_003121	Откуда они пришли??
+ETC_20150317_003122	Уф!
+ETC_20150317_003123	Следите за монстрами.
 ETC_20150317_003124	Aggressive plants appear in this area
 ETC_20150317_003125	Monsters will attack you so avoid them when they approach
 ETC_20150317_003126	Wish me good luck
@@ -3135,7 +3135,7 @@ ETC_20150317_003134	on loop
 ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
-ETC_20150317_003138	Accept Mission
+ETC_20150317_003138	Взять задание
 ETC_20150317_003139	Отмена
 ETC_20150317_003140	Can be traded right away through instant shop
 ETC_20150317_003141	Opening lock
@@ -4710,16 +4710,16 @@ ETC_20150317_004709	{@st42b} My Adventure
 ETC_20150317_004710	Special compensation
 ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
-ETC_20150317_004713	You do not have enough silver.
+ETC_20150317_004713	У вас не достаточно серебра.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
 ETC_20150317_004718	Общий чат
 ETC_20150317_004719	Групповой чат
-ETC_20150317_004720	Group
+ETC_20150317_004720	Группа
 ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004722	Система
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	Minimum:
 ETC_20150317_004725	Maximum:
@@ -4805,31 +4805,31 @@ ETC_20150317_004804	Enhancing the Thorn Flower Powder Stimulant
 ETC_20150317_004805	Drank the stimulant
 ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Obtaining the Revelation
-ETC_20150317_004808	Починка
-ETC_20150317_004809	Secondary Equipment
-ETC_20150317_004810	One-handed Sword
-ETC_20150317_004811	Two-handed Sword
-ETC_20150317_004812	Rod
-ETC_20150317_004813	Staff
-ETC_20150317_004814	Bow
-ETC_20150317_004815	Crossbow
-ETC_20150317_004816	Blunt
-ETC_20150317_004817	Wand
-ETC_20150317_004818	One-handed Spear
-ETC_20150317_004819	Two-handed Spear
-ETC_20150317_004820	Shield
-ETC_20150317_004821	Dagger
+ETC_20150317_004808	Ремонт
+ETC_20150317_004809	Вторичная Экипировка
+ETC_20150317_004810	Одноручный Меч
+ETC_20150317_004811	Двуручный Меч
+ETC_20150317_004812	Жезл
+ETC_20150317_004813	Посох
+ETC_20150317_004814	Лук
+ETC_20150317_004815	Арбалет
+ETC_20150317_004816	Молот
+ETC_20150317_004817	Палочка
+ETC_20150317_004818	Одноручное Копье
+ETC_20150317_004819	Двуручное копье
+ETC_20150317_004820	Щит
+ETC_20150317_004821	Кинжал
 ETC_20150317_004822	Woah, what's this taste?
 ETC_20150317_004823	It's so good!
 ETC_20150317_004824	*munch munch gulp gulp*
-ETC_20150317_004825	You must learn the necessary attribute to equip this item.
+ETC_20150317_004825	Вы должны выучить необходимый атрибут для экипировки этого предмета.
 ETC_20150317_004826	Learn immediately
-ETC_20150317_004827	Buy items for Companion
-ETC_20150317_004828	Adopt Companion
-ETC_20150317_004829	Train Companion
-ETC_20150317_004830	Not available in Klaipeda.
-ETC_20150317_004831	Tool Shop
-ETC_20150317_004832	Benefits of having a Companion
+ETC_20150317_004827	Купить предметы для Компаньона
+ETC_20150317_004828	Купить Компаньона
+ETC_20150317_004829	Тренировать Компаньона
+ETC_20150317_004830	Не доступно в Klaipeda.
+ETC_20150317_004831	Магазин Инструментов
+ETC_20150317_004832	Преимущества Компаньона
 ETC_20150317_004833	{memo X}Defeat the monsters guarding the Demon magic circle.
 ETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Spiritually Enchanted Sap
@@ -9206,9 +9206,9 @@ ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller
 ETC_20150317_009207	[Cleric Master]{nl}       Rozaliia
 ETC_20150317_009208	[Priest Master]{nl}       Boruble
 ETC_20150317_009209	[Krivis Master]{nl}       Herkus
-ETC_20150317_009210	{memo X}[Auctioneer]{nl} Demares
-ETC_20150317_009211	[Market Manager]{nl}             Logi
-ETC_20150317_009212	[Companion Trader]{nl}            Christina
+ETC_20150317_009210	{memo X}[Аукционер]{nl} Demares
+ETC_20150317_009211	[Аукционер]{nl}             Logi
+ETC_20150317_009212	[Продавец  Компаньонов]{nl}            Christina
 ETC_20150317_009213	{memo X}[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
 ETC_20150317_009215	[Magical Association Klaipeda Branch]{nl}                              Henrikka
