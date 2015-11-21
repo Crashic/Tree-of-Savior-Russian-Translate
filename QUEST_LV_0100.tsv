@@ -12,143 +12,143 @@ QUEST_LV_0100_20150317_000011	Эти сны, были самым первым з
 QUEST_LV_0100_20150317_000012	Soldier Blak
 QUEST_LV_0100_20150317_000013	Будьте осторожны!{nl}Зона боевых действий. Монстры атакуют. Все гражданское население должно эвакуироваться!{nl}Так почему же гражданские до сих пор в зоне боевых действий?{nl}
 QUEST_LV_0100_20150317_000014	Ах, так ты Revelator! Прости, не узнал тебя.{nl}В данный момент монстры атакуют базу снабжения.{nl}Мне нужно получить кое-какие припасы из базы. Пожалуйста, помоги мне!
-QUEST_LV_0100_20150317_000015	It was peaceful not too long ago, but now they are coming in groups.{nl}What's happening exactly?
-QUEST_LV_0100_20150317_000016	Even so, I felt uneasy...{nl}Who knew that they'd attack in such an absurd manner?
-QUEST_LV_0100_20150317_000017	The rations are in the First Supply Warehouse, which you can get to using the road on the upper side.{nl}Bring however little leftovers you can find... 
-QUEST_LV_0100_20150317_000018	I wrote down who Sparnas is. Maybe it will be useful in the future.{nl}Though I may not appear so right now, I was a biologist four years ago.
-QUEST_LV_0100_20150317_000019	Please pass this report to Luders.{nl}He is probably at the Center Supply Camp.
+QUEST_LV_0100_20150317_000015	Не так давно здесь было мирно. Но теперь они приходят группами.{nl}Что конкретно происходит?
+QUEST_LV_0100_20150317_000016	Даже так, я чувствую себя неуютно.{nl}Кто же знал, что они станут атаковать в такой абсурдной манере?
+QUEST_LV_0100_20150317_000017	Припасы находятся в First Supply Warehouse, куда ты можешь попасть по дороге выше.{nl}Приноси даже остатки, которые сможешь найти... 
+QUEST_LV_0100_20150317_000018	Я записал, кем является Sparnas. Возможно это пригодится в будущем.{nl}Хотя, я могу сейчас ошибаться. Все же биологом я был четыре года назад.
+QUEST_LV_0100_20150317_000019	Пожалуйста, передай этот доклад Luders.{nl}Скорее всего он сейчас в Center Supply Camp.
 QUEST_LV_0100_20150317_000020	Officer Luders
-QUEST_LV_0100_20150317_000021	Ah, you must be the so called Revelator. Nice to meet you.{nl}Is this Block's report?{nl}
-QUEST_LV_0100_20150317_000022	Hmm... Is that so?{nl}They just destroyed the supplies and ran away. Even if Chupacabras had wings, I am sure they can't do something like that.{nl}
-QUEST_LV_0100_20150317_000023	This isn't enough.{nl}I am sorry, but please bring us Moody's report from Amzina Curved Path.
-QUEST_LV_0100_20150317_000024	I feel better since Luders is here.
+QUEST_LV_0100_20150317_000021	Ага, ты должно быть Revelator. Рад знакомству.{nl}Это отчет Block's?{nl}
+QUEST_LV_0100_20150317_000022	Хмм... Неужели это правда?{nl}Они просто уничтожили припасы и убежали. Даже если бы у Chupacabras были крылья, я уверен, они бы не смогли сделать ничего подобного.{nl}
+QUEST_LV_0100_20150317_000023	Этого недостаточно.{nl}Мне очень жаль, но нам нужен отчет Moody's из Amzina Curved Path.
+QUEST_LV_0100_20150317_000024	Я чувствую себя лучше с тех пор, как Luders появился здесь.
 QUEST_LV_0100_20150317_000025	Soldier York
-QUEST_LV_0100_20150317_000026	Shaulems are crossing the road.{nl}I am in a panic myself, and I don't know what to do.{nl}I'm sure Luders won't allow this to happen... What should we do?
-QUEST_LV_0100_20150317_000027	Do you think the problem will be resolved just by defeating Sparnas?
-QUEST_LV_0100_20150317_000028	Thanks to your help, I think I can hold myself together.{nl}But... won't this kind of thing happen again? What should I do then...?
-QUEST_LV_0100_20150317_000029	Sparnas? We don't have a clear answer about it.{nl}It just appeared from the sky without any signs and destroyed all the supplies we had. Then, it quickly disappeared.{nl}We got headaches just hearing its cries.
-QUEST_LV_0100_20150317_000030	The place I just talked about is the Second Supply Warehouse.{nl}It is depressing to think how these kinds of things will be recurring in the future.
-QUEST_LV_0100_20150317_000031	Take it. I made some bait from old grains in the supplies.{nl}I will lure it from up there, so you stay here.{nl}Sparnas will definitely appear at one of these two places. Don't let it escape. Destroy it for sure.{nl}
-QUEST_LV_0100_20150317_000032	We may not get a second chance if we don't defeat it this time.{nl}It doesn't seem like they're idiots.
-QUEST_LV_0100_20150317_000033	{memo X}I heard the sound of fighting so I came in a hurry. Did you defeat it?{nl}I only spotted Shaulems at my spot.{nl}Thank you. You have performed a meritorious deed.
+QUEST_LV_0100_20150317_000026	Shaulems перешли дорогу.{nl}Я в панике, и не знаю что делать.{nl}Я уверен, что Luders не позволит этому произойти... Что мы должны делать?
+QUEST_LV_0100_20150317_000027	Вы думаете, что решите проблему просто победив Sparnas?
+QUEST_LV_0100_20150317_000028	Благодаря твоей помощи, я думаю я смогу держать себя в руках.{nl}Но... что если это повторится? Что делать в этом случае...?
+QUEST_LV_0100_20150317_000029	Sparnas? Мы не имеем четкого ответа о нем.{nl}Он явился с неба без всяких признаков, и уничтожил все запасы, что у нас были. Затем так же внезапно исчез.{nl}Голова начинала раскалываться от одних лишь его криков.
+QUEST_LV_0100_20150317_000030	Место, о котором я только что говорил, это Second Supply Warehouse.{nl}Грустно думать о том, что подобные вещи будут повторяться в будущем.
+QUEST_LV_0100_20150317_000031	Возьми. Я сделал приманку из старого зерна, что нашел в припасах.{nl}Я буду заманивать его оттуда, так что ты останешься здесь.{nl}Sparnas обязательно появиться в одном из этих двух мест. Не дай ему уйти. Уничтожь его наверняка.{nl}
+QUEST_LV_0100_20150317_000032	У нас не будет второго шанса, если мы проиграем сейчас.{nl}Не похоже, что они идиоты.
+QUEST_LV_0100_20150317_000033	{memo X}Как только я услышал звуки боя, я сразу поспешил сюда. Ты победил его?{nl}Я только увидел Shaulems на моей точке.{nl}Спасибо. Ты совершил похвальный поступок.
 QUEST_LV_0100_20150317_000034	Adjutant General Paulina
-QUEST_LV_0100_20150317_000035	We should recover the stolen supplies.{nl}We can't call ourselves soldiers of the kingdom if we don't do anything about it.{nl}
-QUEST_LV_0100_20150317_000036	The stolen supplies were taken by the Shaulems in every Supply Warehouse, recover the supplies and bring them to Volda.
-QUEST_LV_0100_20150317_000037	I feel so fed up having to endure this all the time.{nl}Reinforcements should be coming soon, but what can we expect from such an incompetent kingdom?
+QUEST_LV_0100_20150317_000035	Мы должны вернуть похищенные припасы.{nl}Мы не можем называть себя солдатами королевства, если мы не сделаем что-нибудь.{nl}
+QUEST_LV_0100_20150317_000036	Украденные припасы были взяты Shaulems в каждом Supply Warehouse. Найди припасы, и отдай их Volda.
+QUEST_LV_0100_20150317_000037	Мне так надоело терпеть это все время.{nl}Подкрепление должно скоро прибыть, но что мы можем ожидать от такого некомпетентного королевства?
 QUEST_LV_0100_20150317_000038	Adjutant General Volda
-QUEST_LV_0100_20150317_000039	Thank you very much, but you must be late for other things.{nl}Besides we can't just sit here and wait. We plan to keep attacking.
+QUEST_LV_0100_20150317_000039	Спасибо конечно, но Вы наверное опаздываете.{nl}К тому же, мы не можем просто сидеть и ждать. Мы планируем продолжать атаковать.
 QUEST_LV_0100_20150317_000040	Secret Guardian
-QUEST_LV_0100_20150317_000041	The Goddess already foresaw this.{nl}Nothing can escape from her vision.
+QUEST_LV_0100_20150317_000041	Богиня уже предвидела это.{nl}Ничто не может ускользнуть от ее взора.
 QUEST_LV_0100_20150317_000042	Liaison Officer Niels
-QUEST_LV_0100_20150317_000043	Hello.{nl}Have you seen an old man who has lost his way?{nl}His name is Jonas.{nl}
-QUEST_LV_0100_20150317_000044	You haven't seen him?{nl}Now which direction would that feeble old fellow have wandered off towards?
-QUEST_LV_0100_20150317_000045	Jonas is a descendant of the family that has been protecting this Mausoleum.{nl}He is a very important person to our lab team so please take good care of him.
+QUEST_LV_0100_20150317_000043	Привет.{nl}Вы видели старика, который потерял свой путь?{nl}Его зовут Jonas.{nl}
+QUEST_LV_0100_20150317_000044	Вы не видели его?{nl}И в каком направлении этот немощный старик движется теперь?
+QUEST_LV_0100_20150317_000045	Jonas является потомком семьи, которая защищала этот Mausoleum.{nl}Он очень важный человек в нашей команде, поэтому пожалуйста, позаботься о нем.
 QUEST_LV_0100_20150317_000046	Archivist Jonas
-QUEST_LV_0100_20150317_000047	Our family has been waiting for you for a long time.{nl}It is time to give you something that we have been protecting for a long time.
-QUEST_LV_0100_20150317_000048	It is good to hear that Jonas has regained his consciousness.{nl}You are the person who casted the light signal, right?{nl}
-QUEST_LV_0100_20150317_000049	Ahylas has come to meet whoever lit the signal.{nl}Meet him downstairs.
-QUEST_LV_0100_20150317_000050	We haven't heard any news from Kepeck for a long time, not since we sent him supplies.{nl}We don't have enough people to form a search team, so please help us find him.
+QUEST_LV_0100_20150317_000047	Наша семья ждала Вас очень долгое время.{nl}Настало время дать тебе то, что моя семья защищала все это время.
+QUEST_LV_0100_20150317_000048	Отрадно слышать, что Jonas снова в ясном сознании.{nl}Вы, тот человек, что зажгли световой сигнал, верно?{nl}
+QUEST_LV_0100_20150317_000049	Ahylas пришел встречать того, кто зажег сигнал.{nl}Встретьте его ниже по лестнице.
+QUEST_LV_0100_20150317_000050	Мы не слышали никаких новостей от Kepeck уже очень долго,  с тех пор как послали ему припасы.{nl}У нас нет достаточно людей, чтобы сформировать поисковую команду. Поэтому пожалуйста, помогите нам найти его.
 QUEST_LV_0100_20150317_000051	Historian Viode
-QUEST_LV_0100_20150317_000052	Always be prepared for monster attacks.{nl}Especially in places like here.
+QUEST_LV_0100_20150317_000052	Всегда будь готов к атаке монстров.{nl}Особенно в подобных местах.
 QUEST_LV_0100_20150317_000053	Mercenary Mirta
-QUEST_LV_0100_20150317_000054	{memo X}Didn't I already warn you?{nl}Please be careful next time.
+QUEST_LV_0100_20150317_000054	{memo X}А разве я не предупреждал тебя?{nl}В следующий раз будь осторожнее.
 QUEST_LV_0100_20150317_000055	Historian Kepeck
-QUEST_LV_0100_20150317_000056	Niels must have sent you.{nl}Well, since you're in a hurry, archive it yourself and take it back to Niels.
-QUEST_LV_0100_20150317_000057	If you go straight, take the road to your right and cross the bridge, you will see the artifacts of the Great King Zachariel.{nl}Archive them and take the archives back to Niels. He'll understand.
-QUEST_LV_0100_20150317_000058	So this is Kepeck's archive... Mercenary Mirta was looking for this.{nl}You helped confirm the safety of two individuals. Thank you for your efforts.
+QUEST_LV_0100_20150317_000056	Наверное тебя послал Niels.{nl}Ну, раз вы торопитесь, упакуйте его самостоятельно и отнесите Niels.
+QUEST_LV_0100_20150317_000057	Если вы пойдете прямо, свернете с дороги направо и пересечете мост, вы увидите артефакты Great King Zachariel.{nl}Упакуйте их, и верните обратно к Niels. Он поймет.
+QUEST_LV_0100_20150317_000058	Значит это архивы Kepeck's... Mercenary Mirta искала это.{nl}Вы помогли подтвердить безопасность двух особей. Благодарю вас за ваши усилия.
 QUEST_LV_0100_20150317_000059	Ahylas Jonas
-QUEST_LV_0100_20150317_000060	{memo X}Now take the unsealing stone and go to Broken Pillar Canyon. {nl}The Disciple of Gustas will teach you how to release the seal there.
-QUEST_LV_0100_20150317_000061	{memo X}Were you not guided yet?{nl}Take it to the Disciple of Gustas in Broken Pillar Canyon.{nl}It is made to let only the chosen one enter.
+QUEST_LV_0100_20150317_000060	{memo X}Теперь возьми Распечатывающий Камень, и отправляйся в Broken Pillar Canyon. {nl}Disciple of Gustas научит тебя ним пользоваться.
+QUEST_LV_0100_20150317_000061	{memo X}Еще не научился?{nl}Возьми это к Disciple of Gustas в Broken Pillar Canyon.{nl}Он создан для того, чтобы только Избранный смог войти туда.
 QUEST_LV_0100_20150317_000062	Disciple of Gustas
-QUEST_LV_0100_20150317_000063	Have you released the seal of Pagasa Cliff?{nl}It will begin now.
-QUEST_LV_0100_20150317_000064	Words engraved into a rock
-QUEST_LV_0100_20150317_000065	Do not touch or push the rock.
-QUEST_LV_0100_20150317_000066	I was waiting for you.{nl}The next seal is located on the way to the Collapsed Sanctum.
-QUEST_LV_0100_20150317_000067	You don't know how eagerly we have waited for this moment.{nl}We really wanted to meet you.
+QUEST_LV_0100_20150317_000063	Вы разрушили печать в Pagasa Cliff?{nl}Ну сейчас начнется.
+QUEST_LV_0100_20150317_000064	Слова выгравированные в камне.
+QUEST_LV_0100_20150317_000065	Не трогать и не толкать камень.
+QUEST_LV_0100_20150317_000066	Я ждала тебя.{nl}Следующая печать находится по пути в Collapsed Sanctum.
+QUEST_LV_0100_20150317_000067	Вы даже не представляете с каим нетерпением мы ждали этого момента.{nl}Мы очень хотели встретиться с вами.
 QUEST_LV_0100_20150317_000068	Gustas Jonas
-QUEST_LV_0100_20150317_000069	It's you.{nl}You are much more gallant than what I had imagined.
+QUEST_LV_0100_20150317_000069	Это Вы.{nl}Вы гораздо смелее, чем я себе представлял.
 QUEST_LV_0100_20150317_000070	Soldier Alan
-QUEST_LV_0100_20150317_000071	You are a new recruit, right?{nl}I received a patrolling order, but I guess you can go my behalf.
-QUEST_LV_0100_20150317_000072	You're good for a newbie.{nl}I have a memory of something horrible happening there once, so I don't want to go.
-QUEST_LV_0100_20150317_000073	I'm remembering something...
-QUEST_LV_0100_20150317_000074	{memo X}You know that we are dispatched here to defeat Gaigalas right?{nl}Rookie. Can you take this report to Commander Wallis?
+QUEST_LV_0100_20150317_000071	Вы новичок, верно?{nl}Я получил приказ патрулировать, но думаю, ты можешь пойти и без меня.
+QUEST_LV_0100_20150317_000072	Ты хорош для новичка.{nl}Я помню как что-то ужасное произошло в прошлый раз. Поэтому я не хочу идти.
+QUEST_LV_0100_20150317_000073	Я помню что-то...
+QUEST_LV_0100_20150317_000074	{memo X}Вы знаете, что мы посланы сюда, чтобы победить Gaigalas, верно?{nl}Новичок. Можешь ли ты отнести этот доклад к Commander Wallасе?
 QUEST_LV_0100_20150317_000075	Commander Wallace
-QUEST_LV_0100_20150317_000076	Why did you bring this report without Alan coming?{nl}Are you a new recruit?
-QUEST_LV_0100_20150317_000077	I can return home after we defeat Gaigalas.{nl}Well, I'd like to go home as soon as possible.
-QUEST_LV_0100_20150317_000078	Commander Wallace is at Bird Footprint Junction.
-QUEST_LV_0100_20150317_000079	I don't care how good you are. You are new here.{nl}This is an order. Bring some sap from Kepa Raiders.
-QUEST_LV_0100_20150317_000080	Soldiers these days, they lack guts.{nl}I hope you'll be a good influence to them.
-QUEST_LV_0100_20150317_000081	It's clear that we will win this battle.{nl}Why? Because the Owls are helping.
-QUEST_LV_0100_20150317_000082	The Kepa Raiders are near Ianutis Waterfall.{nl}To defeat Gaigalas, we will surely need them.
+QUEST_LV_0100_20150317_000076	Почему ты принес этот отчет один? и где Alan?{nl}Ты новенький?
+QUEST_LV_0100_20150317_000077	Я смогу вернуться домой после того, как мы победим Gaigalas.{nl}Ну, я бы хотел вернуться домой как можно скорее.
+QUEST_LV_0100_20150317_000078	Commander Wallace сейчас в Bird Footprint Junction.
+QUEST_LV_0100_20150317_000079	Меня не волнует, насколько ты хорош. Ты новичок здесь.{nl}Это приказ. Принеси сок из Kepa Raiders.
+QUEST_LV_0100_20150317_000080	Солдаты этих дней, им не хватает смелости.{nl}Я надеюсь, вы будете хорошо влиять на них.
+QUEST_LV_0100_20150317_000081	Понятно, что мы победим в этой битве.{nl}Почему? Потому что Совы помогают.
+QUEST_LV_0100_20150317_000082	Kepa Raiders находятся в Ianutis Waterfall.{nl}Для победы над Gaigalas, они нам просто необходимы.
 QUEST_LV_0100_20150317_000083	Soldier Weiz
-QUEST_LV_0100_20150317_000084	Hey, rookie, are you taking a break?{nl}Get some fat from Duckys in Lengvas Garden.
-QUEST_LV_0100_20150317_000085	We will lure Gaigalas using Ducky Fat.{nl}Hey rookie, don't loaf around.
-QUEST_LV_0100_20150317_000086	Today will be the last day for Gaigalas.{nl}Are you ready, rookie?
-QUEST_LV_0100_20150317_000087	Next, we will get leather from Cronewts in Lengvas Garden.{nl}Hurry, soldier.
-QUEST_LV_0100_20150317_000088	We will win for sure this time.{nl}The Goddesses are on our side.
-QUEST_LV_0100_20150317_000089	You are pretty good for a rookie.{nl}It's disorganized here at the moment, so you can keep those ingredients for now.{nl}
-QUEST_LV_0100_20150317_000090	Get to know our soldiers while I make preparations for the battle.{nl}I will call you before we confront Gaigalas.
-QUEST_LV_0100_20150317_000091	When we burn the Ducky Fat, Gaigalas will appear after smelling the odor.{nl}Lengvas Garden will be a good place to burn it.
-QUEST_LV_0100_20150317_000092	My heart is pounding.{nl}I feel like my soul is throbbing with it.
+QUEST_LV_0100_20150317_000084	Эй, салага, ты взял перерыв?{nl}Принеси жир из Duckys в Lengvas Garden.
+QUEST_LV_0100_20150317_000085	Мы будем завлекать Gaigalas используя жир Ducky.{nl}Эй, новичок, не слоняйся туда-сюда.
+QUEST_LV_0100_20150317_000086	Сегодняшний день будет последним днем для Gaigalas.{nl}Готов, новичок?
+QUEST_LV_0100_20150317_000087	Далее, мы получим кожу из Cronewts в Lengvas Garden.{nl}Быстрее, солдат.
+QUEST_LV_0100_20150317_000088	Мы обязательно победим в этот раз.{nl}Богини на нашей стороне.
+QUEST_LV_0100_20150317_000089	А ты хорош для новичка.{nl}В данный момент они разобщены, так что ты можешь придержать пока эти ингридиенты.{nl}
+QUEST_LV_0100_20150317_000090	Познакомься с нашими солдатами, а я пошел готовиться к битве.{nl}Я позову тебя, прежде чем мы столкнемся с Gaigalas.
+QUEST_LV_0100_20150317_000091	Когда мы сожжем жир Ducky, Gaigalas появится, когда унюхает этот запах.{nl}Lengvas Garden отличное место для этого.
+QUEST_LV_0100_20150317_000092	Мое сердце колотится.{nl}Я чувствую, что моя душа бьется с ним в унисон.
 QUEST_LV_0100_20150317_000093	Old Owl Sculpture
-QUEST_LV_0100_20150317_000094	There is no one in this forest. Why are you here?{nl}
-QUEST_LV_0100_20150317_000095	Gaigalas?{nl}Defeating it without any assistance will be difficult.
-QUEST_LV_0100_20150317_000096	I have seen many deaths here.{nl}And I don't want to see any more sacrifices.
-QUEST_LV_0100_20150317_000097	I need Kepa Raider Sap and Cronewt Leather.
-QUEST_LV_0100_20150317_000098	Why do you have that?{nl}Hand it to me and I will make a Memory Fragment.
-QUEST_LV_0100_20150317_000099	With this Memory Fragment, I will revive the memories of our sleeping comrades.
-QUEST_LV_0100_20150317_000100	It will be difficult to defeat it without a Memory Fragment.{nl}Please bring me Infro Holder Horns.
-QUEST_LV_0100_20150317_000101	How come you have all these ingredients?
-QUEST_LV_0100_20150317_000102	{memo X}Those are people who are already gone from this world. {nl}They are repeating what happened back then because of their anger for Gaigalas.
-QUEST_LV_0100_20150317_000103	{memo X}We can calm them if we defeat Gaigalas.{nl}Please go see the Worrying Owl.
+QUEST_LV_0100_20150317_000094	В этом лесу нет никого. Так почему же ты здесь?{nl}
+QUEST_LV_0100_20150317_000095	Gaigalas?{nl}Победить его без посторонней помощи будет сложно.
+QUEST_LV_0100_20150317_000096	Я видел много смертей здесь.{nl}И я больше не хочу жертв.
+QUEST_LV_0100_20150317_000097	Мне нужны Kepa Raider Sap и Cronewt Leather.
+QUEST_LV_0100_20150317_000098	Зачем тебе это?{nl}Отдай их мне и я сделаю Memory Fragment.
+QUEST_LV_0100_20150317_000099	с этим Memory Fragment, я возрожу воспоминания о наших спящих товарищах.
+QUEST_LV_0100_20150317_000100	Трудно будет победить его без Memory Fragment.{nl}Пожалуйста, принеси мне Infro Holder Horns.
+QUEST_LV_0100_20150317_000101	Откуда у тебя все эти ингредиенты?
+QUEST_LV_0100_20150317_000102	{memo X}Это люди, которые уже ушли из этого мира. {nl}Они повторяют то, что произошло тогда, потому что их гнев на Gaigalas не угас.
+QUEST_LV_0100_20150317_000103	{memo X}Мы можем успокоить их, если победим Gaigalas.{nl}Пожалуйста, сходите к Worrying Owl.
 QUEST_LV_0100_20150317_000104	Worrying Owl Sculpture
-QUEST_LV_0100_20150317_000105	Please help me wake my sleeping comrades and complete the magic of that day.{nl}With the Memory Fragment.
-QUEST_LV_0100_20150317_000106	They may become satiated.{nl}I will stand here while remembering my comrades.
-QUEST_LV_0100_20150317_000107	You will find Gaigalas when you go to Ishimtini Access Way.{nl}Please avenge the fallen soldiers.
-QUEST_LV_0100_20150317_000108	I was in an isolated place so I did not fall asleep.{nl}But, watching it all was painful for me.
-QUEST_LV_0100_20150317_000109	My comrades were attacked while they were trying to help the soldiers.
-QUEST_LV_0100_20150317_000110	Some symbols started to show on Jonas' body after he drank the medicine.
+QUEST_LV_0100_20150317_000105	Пожалуйста, помогите мне разбудить моих спящих товарищей и завершить волшебство этого дня.{nl}С помощью Memory Fragment.
+QUEST_LV_0100_20150317_000106	Они могут стать сытыми.{nl}Я буду стоять здесь, пока вспоминаю моих товарищей.
+QUEST_LV_0100_20150317_000107	Вы найдете Gaigalas когда пойдете в Ishimtini Access Way.{nl}Пожалуйста, отомстите за павших воинов.
+QUEST_LV_0100_20150317_000108	Я был в изолированном месте, поэтому я не заснул.{nl}Но наблюдать все это было мучительно для меня.
+QUEST_LV_0100_20150317_000109	Мои товарищи подверглись нападению, когда они пытались помочь солдатам.
+QUEST_LV_0100_20150317_000110	Некоторые символы начали показывать на тело Jonas' после того, как он выпил лекарство.
 QUEST_LV_0100_20150317_000111	Archaeologist Dezic
-QUEST_LV_0100_20150317_000112	I am looking for my assistant named Airine.{nl}Can you defeat the monsters nearby so I can go look for her?
-QUEST_LV_0100_20150317_000113	I told her not to get excited even if she finds something.{nl}And yet she did it again.
-QUEST_LV_0100_20150317_000114	Thanks.{nl}I will go look for Airine.
+QUEST_LV_0100_20150317_000112	Я ищу своего помощника по имени Airine.{nl}Можете ли вы победить монстров неподалеку, чтобы я смог пойти и поискать ее?
+QUEST_LV_0100_20150317_000113	Я сказал ей не увлекаться, даже если она находит что-то.{nl}И все же она сделала это снова.
+QUEST_LV_0100_20150317_000114	Благодарю.{nl}Я отправлюсь на поиски Airine немедленно.
 QUEST_LV_0100_20150317_000115	Technician Heinen
-QUEST_LV_0100_20150317_000116	{memo X}This cable car can only be ridden by those with a permit. I'm afraid I have to tell you to turn back towards Vienesa Highlands.
-QUEST_LV_0100_20150317_000117	{memo X}However, if you defeat the troublesome monsters around this area, I'll think about it.
-QUEST_LV_0100_20150317_000118	{memo X}Isn't it better to use the cable car rather than getting injured passing through the monsters? Of course, this is if you can ride the cable car.
-QUEST_LV_0100_20150317_000119	{memo X}Much better than I expected.{nl}I want to propose a deal to you.
+QUEST_LV_0100_20150317_000116	{memo X}По этой канатной дороге проезд разрешен только тем, у кого есть специальное разрешение. Боюсь Вам придется врену ться обратно в Vienesa Highlands.
+QUEST_LV_0100_20150317_000117	{memo X}Однако, если вы победите проблемных монстров вокруг этой области, я подумаю о Вашей нужде попасть на ту сторону.
+QUEST_LV_0100_20150317_000118	{memo X}Не лучше ли пользоваться канатной дорогой, а не подвергать себя опасности, проходя через ареал монстров? Конечно, это если вы можете прокатиться по канатной дороге.
+QUEST_LV_0100_20150317_000119	{memo X}Гораздо лучше, чем я ожидал.{nl}Я хочу предложить вам сделку.
 QUEST_LV_0100_20150317_000120	{memo X}
 QUEST_LV_0100_20150317_000121	{memo X}
-QUEST_LV_0100_20150317_000122	That barrier... Hmm. When did it form?{nl}It has been there for quite some time now, but I can't remember exactly for how long.{nl}
-QUEST_LV_0100_20150317_000123	I'm sure that barrier was responsible for the increasing number of monsters lately.{nl}
-QUEST_LV_0100_20150317_000124	We don't have many soldiers guarding this area.{nl}Who in their right mind would come here in this day and age?{nl}
+QUEST_LV_0100_20150317_000122	Этот барьер... Хм. Когда же он возник?{nl}Он был там некоторое время, но я не помню точно как долго.{nl}
+QUEST_LV_0100_20150317_000123	Я уверен, что именно барьер был ответственен за растущее число монстров в последнее время.{nl}
+QUEST_LV_0100_20150317_000124	У нас не так много солдат, охранявших этот район.{nl}Кто в здравом уме придет сюда в этот день и век?{nl}
 QUEST_LV_0100_20150317_000125	Rolandas Jonas
-QUEST_LV_0100_20150317_000126	No one knows what the Great King Zachariel tried to protect.{nl}And I'm sure that we're not the only ones who want to solve that mystery.
-QUEST_LV_0100_20150317_000127	Hurry, use the Great King's Key to release the seals.{nl}You should know what to do next afterwards.
-QUEST_LV_0100_20150317_000128	I found Airine, but I don't know how to rescue her.{nl}She is imprisoned in Rodoma 2nd Ruins, but I can't rescue her myself...
+QUEST_LV_0100_20150317_000126	Никто не знает, что Great King Zachariel пытался защитить.{nl}И я уверен, что мы не единственные, кто хочет решить эту загадку.
+QUEST_LV_0100_20150317_000127	Быстрее, используй Great King's Key для снятия печати.{nl}Ты должен знать, что делать дальше.
+QUEST_LV_0100_20150317_000128	Я нашел Airine, но я не знаю как спасти ее.{nl}Она заключена в Rodoma 2nd Ruins, но я не могу спасти ее в одиночку...
 QUEST_LV_0100_20150317_000129	Assistant Airine
-QUEST_LV_0100_20150317_000130	{memo X}I can't move because of the barrier.{nl}Please break the three barriers in Rodoma Ruins.
-QUEST_LV_0100_20150317_000131	Are you not done yet? Ah, geez...
-QUEST_LV_0100_20150317_000132	I didn't expect that I would be taken into this kind of thing.{nl}Oh, the mess I caused from chasing that boy.
+QUEST_LV_0100_20150317_000130	{memo X}Я не могу двигаться из-за барьера.{nl}Пожалуйста, разрушьте три барьера в Rodoma Ruins.
+QUEST_LV_0100_20150317_000131	Ты еще не закончил? Эх, блин...
+QUEST_LV_0100_20150317_000132	Я не ожидала что в вляпаюсь в такую передрягу.{nl}Ох, ну и беспорядок я учинила, гоняясь за этим мальцом.
 QUEST_LV_0100_20150317_000133	Mercenary Glen
-QUEST_LV_0100_20150317_000134	So many researchers are disappearing these days.{nl}I'm trying to find clues by defeating some Sauga. Can you help us?
-QUEST_LV_0100_20150317_000135	The Saugas split their loot fairly among themselves.{nl}Maybe we can find some clues from them.
-QUEST_LV_0100_20150317_000136	Fortunately they are very old.{nl}So that means these cases are not due to monsters.
-QUEST_LV_0100_20150317_000137	This is a very dangerous place where many go missing due to monsters or a misstep.{nl}However, what is interesting isn't that.{nl}
-QUEST_LV_0100_20150317_000138	When these people disappear, no one else notices.{nl}It's as if memories about those who disappeared are erased. Strange, isn't it?{nl}
-QUEST_LV_0100_20150317_000139	{memo X}Please defeat all monsters nearby to prevent anything from happening.{nl}There were reports that the monsters at the 1st Architects' Site had turned violent.
-QUEST_LV_0100_20150317_000140	Splendid.{nl}We will be safe for now.
-QUEST_LV_0100_20150317_000141	{memo X}Monsters are coming!{nl}They probably found out I was released.
-QUEST_LV_0100_20150317_000142	The Goddesses have sent you?{nl}I never thought that you would protect me.{nl}
-QUEST_LV_0100_20150317_000143	Where did that huge scorpion go? This is very bad!
-QUEST_LV_0100_20150317_000144	I should go see Dezic.{nl}I hope to see you again in the future.
-QUEST_LV_0100_20150317_000145	Someone must have done something strange to the monsters protecting the Royal Mausoleum.{nl}What were they thinking?
-QUEST_LV_0100_20150317_000146	Sir, get a hold of yourself. Sir!
+QUEST_LV_0100_20150317_000134	Поэтому многие исследователи исчезают в эти дни.{nl}Я пытаюсь найти зацепки, победив Sauga. Можете ли вы помочь нам?
+QUEST_LV_0100_20150317_000135	Saugas делят добычу справедливо между собой.{nl}Может быть, мы сможем найти некоторые подсказки у них.
+QUEST_LV_0100_20150317_000136	К счастью они очень старые.{nl}Значит, эти случаи не из-за монстров.
+QUEST_LV_0100_20150317_000137	Это очень опасное место, где многие пропадают из-за монстров или оплошности.{nl}Однако интересно не это.{nl}
+QUEST_LV_0100_20150317_000138	Когда эти люди исчезают, никто не замечает.{nl}Это как если бы воспоминания о тех, кто исчез, стираются. Странно, не правда ли?{nl}
+QUEST_LV_0100_20150317_000139	{memo X}Пожалуйста, уничтожь всех монстров поблизости, чтобы ничего не случилось.{nl}Появились сообщения, что монстры в 1st Architects' Site вели себя агрессивно.
+QUEST_LV_0100_20150317_000140	Замечательно.{nl}Теперь мы будем в безопасности.
+QUEST_LV_0100_20150317_000141	{memo X}Монстры приближаются!{nl}Они наверное узнали, что я был освобожден.
+QUEST_LV_0100_20150317_000142	Тебя послали Богини?{nl}Я никогда не думал, что ты будешь защищать меня.{nl}
+QUEST_LV_0100_20150317_000143	Куда это огромный скорпион пошел? Это очень плохо!
+QUEST_LV_0100_20150317_000144	Я должен увидеть Dezic.{nl}Я надеюсь увидеть вас снова в будущем.
+QUEST_LV_0100_20150317_000145	Кто-то, должно быть, сделал что-то странное с монстрами защищающими Royal Mausoleum.{nl}О чем они думали?
+QUEST_LV_0100_20150317_000146	Сэр, держите себя в руках. Сэр!
 QUEST_LV_0100_20150317_000147	New Researcher
-QUEST_LV_0100_20150317_000148	I lost my important research materials at the Abandoned Old Workshop.{nl}The monsters must have taken them... Should I just give up?
-QUEST_LV_0100_20150317_000149	I am so glad I get to see the Royal Mausoleum myself, but the monsters... They are scary.
-QUEST_LV_0100_20150317_000150	Thank you so much.{nl}You should also check the Records Repository.
-QUEST_LV_0100_20150317_000151	The entrance to the Royal Mausoleum is hidden within this gigantic canyon somewhere.{nl}The start of the canyon begins here.
+QUEST_LV_0100_20150317_000148	Я потерял важные научные материалы в Abandoned Old Workshop.{nl}Монстры, должно быть, забрали их... Должен ли я так просто сдаться?
+QUEST_LV_0100_20150317_000149	Я так рад, что смог увидеть Royal Mausoleum собственными глазами, но монстры... Они пугают.
+QUEST_LV_0100_20150317_000150	Огромное спасибо.{nl}Вы должны также проверить Records Repository.
+QUEST_LV_0100_20150317_000151	Вход в Royal Mausoleum скрыт внутри этого гигантского каньона.{nl}Начало каньона здесь.
 QUEST_LV_0100_20150317_000152	Many experts have come here to conduct research on the Royal Mausoleum.{nl}Maybe we can find some clues about Medzio Diena here.
 QUEST_LV_0100_20150317_000153	Why are there so many monsters in the canyon when there is so little plant life around?
 QUEST_LV_0100_20150317_000154	What happened to my request? Is it not done yet?
