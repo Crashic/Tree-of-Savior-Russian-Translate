@@ -19,49 +19,49 @@ QUEST_JOBSTEP_20150317_000018	{memo X}Хорошо. {nl}Это исследов�
 QUEST_JOBSTEP_20150317_000019	Cryomancer Master
 QUEST_JOBSTEP_20150317_000020	{memo X}Вы хотите научится у меня магии Cryomancer? {nl}Конечно, я обучу вас, но только если вы позаботитесь о чем-то первым!
 QUEST_JOBSTEP_20150317_000021	Мастера Pyromancer не должно быть рядом. {nl}Поэтому что это будет легкой задачей.
-QUEST_JOBSTEP_20150317_000022	Не чувствуйте себя виноватым. Ты сделал свою работу хорошо.{nl}I've got your back from now on, so you don't need to worry. 
-QUEST_JOBSTEP_20150317_000023	{memo X}It's sneaking into the Pyromancer Master's room and opening a box. {nl}As for what's inside the box...Well, you'll just have to kill it off.
-QUEST_JOBSTEP_20150317_000024	{memo X}This will be enough. {nl}My magic is not easy, so you will need to work hard to keep up. 
-QUEST_JOBSTEP_20150317_000025	Your will to learn from me is good, but first I have a favor to ask. {nl}We can continue our talk if you are up for it. {nl}
-QUEST_JOBSTEP_20150317_000026	Lydia Schaffen's gears are like divine materials to us archers. {nl}I would give up my entire fortune just to have them.
-QUEST_JOBSTEP_20150317_000027	I never imagined that I would see this myself. {nl}Thank you. I will teach you thoroughly from now on, so you better be prepared. 
-QUEST_JOBSTEP_20150317_000028	I heard the lost telescope lens from the Star Tower is in Crystal Mine 1F. {nl}Get me that lens before the other masters find out and I'll teach you my techniques. 
-QUEST_JOBSTEP_20150317_000029	{memo X}So you want to learn the way of the arrow from me...Then I have a mission for you. {nl}I will base my decision on how well you accomplish the mission. 
-QUEST_JOBSTEP_20150317_000030	Evoniphon...I will never forgive him.
+QUEST_JOBSTEP_20150317_000022	Не чувствуйте себя виноватым. Ты сделал свою работу хорошо.{nl}Я прикрою твою спину, поэтому не надо беспокоится. 
+QUEST_JOBSTEP_20150317_000023	{memo X}Проникните в Pyromancer Master's room и откройте ящик. {nl}А то что в ящике...Ну, вы просто должны убить его.
+QUEST_JOBSTEP_20150317_000024	{memo X}Этого достаточно. {nl}Моя магия не так проста, вам придется потрудится чтобы приуспеть. 
+QUEST_JOBSTEP_20150317_000025	Ваше желание учиться у меня это хорошо, но сначала у меня есть просьба. {nl}Мы продолжим наш разговор, если вы выполните её. {nl}
+QUEST_JOBSTEP_20150317_000026	Механизмы Lydia Schaffen's используются лучниками как божественные предметы . {nl}За них я отдал бы все что имею. 
+QUEST_JOBSTEP_20150317_000027	Я никогда не думал что увижу их. {nl}Спасибо вам. Я буду учить тщательно, вам лучше подготовиться. 
+QUEST_JOBSTEP_20150317_000028	Я слышал что потерянная линза от телескопа из Star Tower находится в Crystal Mine 1F. {nl}Принесите лизу раньше других мастеров, тогда я обучу вас своим техникам. 
+QUEST_JOBSTEP_20150317_000029	{memo X}Вы хотете обучится пути стрелы у меня...Тогда у меня для вас есть задание. {nl}Мое решение будет зависеть от того, как вы выполните свою миссию. 
+QUEST_JOBSTEP_20150317_000030	Evoniphon...Я никогда не прощу его.
 QUEST_JOBSTEP_20150317_000031	Hunter Master
-QUEST_JOBSTEP_20150317_000032	{memo X}You collected all the books. Good job. {nl}I will teach you the way of a Hunter as promised. 
-QUEST_JOBSTEP_20150317_000033	{memo X}You got some good results. I will teach you from now on. {nl}I hope you live up to my expectations. 
-QUEST_JOBSTEP_20150317_000034	I heard the bats in Crystal Mine 1F have a special type of venom. {nl}I'm sure it's the same venom used by the assassin Evoniphon. Bring me that venom.
+QUEST_JOBSTEP_20150317_000032	{memo X}Вы собрали все книги. Хорошая работа. {nl}Я обучу вас пути Hunter как обещал. 
+QUEST_JOBSTEP_20150317_000033	{memo X}Вы показали хорошие результаты. Я обучу вас сейчас. {nl}Я надеюсь вы оправдаете мои ожидания. 
+QUEST_JOBSTEP_20150317_000034	Я слышал летучие мыши в Crystal Mine 1F имеют особый вид яда. {nl}Я уверен, что этот яд используют убийцы Evoniphon. Принесите мне этот яд.
 QUEST_JOBSTEP_20150317_000035	Barbarian Master
-QUEST_JOBSTEP_20150317_000036	{memo X}You can understand an opponent's abilities by facing them sword to sword. {nl}Prove to me that you are a true warrior, and I will lead you in becoming a real Barbarian. 
-QUEST_JOBSTEP_20150317_000037	{memo X}You indeed qualify as a warrior. {nl}I will make you become a true Barbarian. 
-QUEST_JOBSTEP_20150317_000038	{memo X}I understand that you want to be stronger with a spear. {nl}Complete the mission I assign to you, and I will teach you my spearmanship.
-QUEST_JOBSTEP_20150317_000039	{memo X}Please bring me Groll Leather from Spineheart Dale, Chafperor Poison Darts from the Fallen Worry Forest, and Jukopus Black Powder from Miners' Village.
-QUEST_JOBSTEP_20150317_000040	I understand your will to become stronger. {nl}I also see that you may have what it takes to be good with spears.
+QUEST_JOBSTEP_20150317_000036	{memo X}Вы можете понять способности противника, столкнувшись с ними меч к мечу. {nl}Докажите мне, что вы истинный воин, и я сделаю вас настоящим Barbarian. 
+QUEST_JOBSTEP_20150317_000037	{memo X}Вы действительно достойны стать войном. {nl}Я помогу вам стать лучшим Barbarian. 
+QUEST_JOBSTEP_20150317_000038	{memo X}Я понимаю что ты хочешь стать сильнее в использовании копья. {nl}Выполни миссию которую я возлагаю на тебя и я обучу тебя искусству владения копьем.
+QUEST_JOBSTEP_20150317_000039	{memo X}Пожалуйста, принесите мне Groll Leather от Spineheart Dale, Chafperor Poison Darts из Fallen Worry Forest, и Jukopus Black Powder из Miners' Village.
+QUEST_JOBSTEP_20150317_000040	Я понимаю что ты хочешь стать сильнее. {nl}Я вижу у вас есть качества нужные для владения копьем.
 QUEST_JOBSTEP_20150317_000041	Psychokino Master
-QUEST_JOBSTEP_20150317_000042	{memo X}If you want to understand Psychokino, then how about you work as my assistant?{nl}I will guarantee you that it is an attractive job.
-QUEST_JOBSTEP_20150317_000043	{memo X}Please, first defeat Matsums from Spine Heart Dale and collect their flower alcohol.{nl}They break easily so it's hard to get the decent ones.
-QUEST_JOBSTEP_20150317_000044	{memo X}Good. The flower alcohol from the Matsums is okay.{nl}You will see something interesting soon.
-QUEST_JOBSTEP_20150317_000045	{memo X}Now go to Gintara Highway at Spine Heart Dale.{nl}Sprinkle this liquid medicine onto the experimental Matsum doll that I installed and let me know the result.
-QUEST_JOBSTEP_20150317_000046	{memo X}The Matsums attacked you? {nl}Since the Matsums accepted the Matsum dolls as their friends, I consider it successful. 
-QUEST_JOBSTEP_20150317_000047	{memo X}Good work. {nl}You've done a good job as my assistant, so I'll teach you what being a Psychokino truly means. 
+QUEST_JOBSTEP_20150317_000042	{memo X}Если вы хотите понять Psychokino, то как насчет поработать моим помощником?{nl}Я гарантирую вам, что это привлекательная работа.
+QUEST_JOBSTEP_20150317_000043	{memo X}Пожалуйста, сначала победите Matsums из Spine Heart Dale и соберите их цветочный спирт.{nl}Они легко ломаются поэтому трудно получить достойные экземпляры.
+QUEST_JOBSTEP_20150317_000044	{memo X}Здорово. Цветочный алкоголь из Matsums в порядке.{nl}Поздее вы увидите кое что интнресное.
+QUEST_JOBSTEP_20150317_000045	{memo X}Теперь идите в Gintara Highway у Spine Heart Dale.{nl}Капните жидкое лекарство на экспериментальные куклы Matsum, которые я установил и сообщите мне результат.
+QUEST_JOBSTEP_20150317_000046	{memo X}Matsums атаковали тебя? {nl}Поскольку Matsums приняли кукол Matsum, как своих друзей, я считаю эксперимент успешным. 
+QUEST_JOBSTEP_20150317_000047	{memo X}Хорошая работа. {nl}Вы проделали хорошую работу в качестве моего помощника, так что я буду учить вас, что бы вы стали Psychokino. 
 QUEST_JOBSTEP_20150317_000048	{memo X}My research is about the methods of shifting psychokinesis to the substance of matter. {nl}In other words...It's a method of brainwashing by using medicine. 
 QUEST_JOBSTEP_20150317_000049	Linker Master
-QUEST_JOBSTEP_20150317_000050	Temperament is very important for Linkers. {nl}While it may be easy to shut out one's heart, opening it up requires a special kind of temperament. {nl}
-QUEST_JOBSTEP_20150317_000051	I will test you to see if you have such temperament. 
-QUEST_JOBSTEP_20150317_000052	{memo X}Good. However, you must prepare some materials before taking the test.{nl}Bring me a Dunball’s thorn and Velwriggler’s carving at the Gate Route.[?]
-QUEST_JOBSTEP_20150317_000053	Excellent! {nl}But this is just to prepare you for the test. {nl}
-QUEST_JOBSTEP_20150317_000054	{memo X}I will start the test now. {nl}Behind the Gate Route is a rip in the space of the world.{nl}
-QUEST_JOBSTEP_20150317_000055	Normal people are only capable of seeing reality as is, but if you have the temperament of a Linker, {nl}you should be able to perceive a hidden world. {nl}Find the book from there and bring it to me. 
-QUEST_JOBSTEP_20150317_000056	{memo X}Have you gone there yet? {nl}Just go to the Gate Route and check. I’ve marked the location on the map.{nl}
-QUEST_JOBSTEP_20150317_000057	Looks like you found the book. With this, you have passed my test. {nl} Nevertheless, please read that book to demonstrate your determination as a Linker. 
-QUEST_JOBSTEP_20150317_000058	So you want me to teach you the skills of a Sapper... well then you must customarily pay a fee for my service. {nl}Not to me. But rather, I want you to give a donation to the Cleric Master in Klaipeda. {nl}Let's say, around 5000 silver? 
-QUEST_JOBSTEP_20150317_000059	{memo X}Wait, there’s one more thing. {nl}I hid some objects at Flude Island in the Siaulai Western Woods.{nl}Before you go to Klaipeda, find the objects first and return them to their original owners in Klaipeda.{nl}{nl} 
-QUEST_JOBSTEP_20150317_000060	Oh, this. I saw it somewhere...hmm...it looks familiar...{nl}Well I'll take it with gratitude since you're giving it to me.
-QUEST_JOBSTEP_20150317_000061	Ah, this is the tool I lost. {nl}Thanks. Where was it?
-QUEST_JOBSTEP_20150317_000062	Did you forget about the donation? {nl}It's 5000 silver.
+QUEST_JOBSTEP_20150317_000050	Характер очень важен для Linkers. {nl}Закрыть сердце легко, открытие его требует особого вида характера. {nl}
+QUEST_JOBSTEP_20150317_000051	Я проверю вас, чтобы увидеть, есть ли у Вас такой характер.. 
+QUEST_JOBSTEP_20150317_000052	{memo X}Хорошо. Однако,прежде чем начать тест, вы должны подготовить некоторые материалы.{nl}Принесите мне Dunball’s thorn и Velwriggler’s carving из Gate Route.[?]
+QUEST_JOBSTEP_20150317_000053	Превосходно! {nl}Это чтобы подготовить вас к тесту. {nl}
+QUEST_JOBSTEP_20150317_000054	{memo X}Я начну тест сейчас. {nl}За Gate Route находится разрыв в пространстве мира.{nl}
+QUEST_JOBSTEP_20150317_000055	Обычные люди способны видеть реальность как она есть, но если у вас есть характер Linker, {nl}вы должны быть в состоянии воспринимать скрытый мир. {nl}Найти книгу оттуда и принесите её мне. 
+QUEST_JOBSTEP_20150317_000056	{memo X}Вы уже были там? {nl}Сходите в Gate Route и проверьте. Я пометил нужное место на карте.{nl}
+QUEST_JOBSTEP_20150317_000057	Похоже, вы нашли книгу. При этом, вы прошли мой тест. {nl} Тем не менее, пожалуйста, прочитайте эту книгу, чтобы продемонстрировать вашу решимость быть Linker. 
+QUEST_JOBSTEP_20150317_000058	Вы хотите чтобы я обучил вас навыкам Sapper... хорошо но тогда вы должны оплатить мои услуги {nl}Не мне. Но я хочу чтобы вы сделали пожертвование Cleric Master в Klaipeda. {nl}Скажем, около 5000 серебра? 
+QUEST_JOBSTEP_20150317_000059	{memo X}Подождите, есть еще одна вещь. {nl}Я спрятал несколько объектов на Flude Island в Siaulai Western Woods.{nl}Сначала идите в Klaipeda, найдите объекты и верните их настоящим владельцам в Klaipeda.{nl}{nl} 
+QUEST_JOBSTEP_20150317_000060	Ох, это. Я видел его где-то ... хм ... выглядит знакомым ...{nl}Ну, я возьму его с благодарностью, так как вы даете его мне.
+QUEST_JOBSTEP_20150317_000061	Ах, это инструмент, который я потерял. {nl}Спасибо. Где это было?
+QUEST_JOBSTEP_20150317_000062	Вы забыли о пожертвовании? {nl}Это 5000 серебра.
 QUEST_JOBSTEP_20150317_000063	Cleric Master
-QUEST_JOBSTEP_20150317_000064	Thank you, in the name of the Goddess.{nl}I promise the donations will be used for those injured by monsters. {nl}
+QUEST_JOBSTEP_20150317_000064	Спасибо вам, это во имя богини Goddess.{nl}Я обещаю, что пожертвования будут использованы для пострадавших от монстров. {nl}
 QUEST_JOBSTEP_20150317_000065	I used to be a thief, but I came to realize certain things and I stopped my criminal life. {nl}But there is a small matter left on my mind... and I want to resolve it now. {nl}
 QUEST_JOBSTEP_20150317_000066	{memo X}Anyway, you did a good job. {nl}Let's cooperate from now on, teaching and learning from each other. 
 QUEST_JOBSTEP_20150317_000067	{memo X}I'm looking for a book. Four books by Lydia Schaffen. {nl}If you help me find the books, I will teach you my skills. 
