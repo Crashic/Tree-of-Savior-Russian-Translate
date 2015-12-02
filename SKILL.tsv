@@ -1100,23 +1100,23 @@ SKILL_20150317_001098	{#993399}{ol}[Магическая] - [Огонь]{/}{/}{n
 SKILL_20150317_001099	Attack #{SkillAtkAdd}#
 SKILL_20150317_001100	Fire Pillar
 SKILL_20150317_001101	{#993399}{ol}[Магическая] - [Огонь]{/}{/}{nl}Создает в указанной области столб огня нанося урон врагам на протяжении времени действия.
-SKILL_20150317_001102	Attack #{SkillAtkAdd}#{nl}Длительность #{CaptionTime}# секунд
+SKILL_20150317_001102	Атака #{SkillAtkAdd}#{nl}Длительность #{CaptionTime}# секунд
 SKILL_20150317_001103	Hell Breath
 SKILL_20150317_001104	{#993399}{ol}[Магическая] - [Огонь]{/}{/}{nl} Персонаж призывает перед собой Адское Пламя наносящее урон огнём.
 SKILL_20150317_001105	Attack #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 секунд
 SKILL_20150317_001106	Ice Bolt
-SKILL_20150317_001107	{#993399}{ol}[Магическая] - [Лёд] - [Колющая]{/}{/}{nl}Blow Ice force with chance of freezing enemy.
-SKILL_20150317_001108	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Заморозка]{/}{/} Длительность 3 секунды
+SKILL_20150317_001107	{#993399}{ol}[Магическая] - [Лёд] - [Колющая]{/}{/}{nl}Наносит удар льдом с шансом заморозить врага.
+SKILL_20150317_001108	Атака #{SkillAtkAdd}#{nl}{#339999}{ol}[Заморозка]{/}{/} Длительность 3 секунды
 SKILL_20150317_001109	Ice Pike
 SKILL_20150317_001110	{#993399}{ol}[Магическая] - [Лёд] - [Колющая] {/} {/}} {nl}Создаёт Ледяную Волну наносящую урон + шанс заморозить противника.
-SKILL_20150317_001111	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Заморозка]{/}{/} Длительность 4 секунды
+SKILL_20150317_001111	Атака #{SkillAtkAdd}#{nl}{#339999}{ol}[Заморозка]{/}{/} Длительность 4 секунды
 SKILL_20150317_001112	Возводит стену льда которая накладывает эффект замораживания врагов рядом с ней. 
 SKILL_20150317_001113	Ice Wall #{CaptionRatio}# {nl}{#339999}{ol}[Лёд]{/}{/}{nl} Длительность 3 секунды {nl} Ice Wall Длительность 10 секунд
 SKILL_20150317_001114	Взрыв Льда
 SKILL_20150317_001115	{#993399}{ol}[Магическая] - [Лёд]{/}{/}{nl}Взрывает замороженных врагов.
-SKILL_20150317_001116	{#339999}{ol}[Лёд]{/}{/}Target to Attack #{SkillAtkAdd}#
+SKILL_20150317_001116	{#339999}{ol}[Лёд]{/}{/}Target to Атака #{SkillAtkAdd}#
 SKILL_20150317_001117	Создает ледяной барьер замораживающий врагов наносящих ему урон.
-SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Лёд]{/}{/}Rate 50% {nl} {#339999}{ol}[Лёд]{/}{/}Длительность 3 секунды
+SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Лёд]{/}{/}Коэффициент атаки 50% {nl} {#339999}{ol}[Лёд]{/}{/}Длительность 3 секунды
 SKILL_20150317_001119	Gust
 SKILL_20150317_001120	Создает мощный порыв ветра отбрасывающий врагов. Наносит урон замороженным врагам или соседней Стене из Льда. 
 SKILL_20150317_001121	Ледяной столб
@@ -1124,7 +1124,7 @@ SKILL_20150317_001122	Призывает Ледяной столб притяг�
 SKILL_20150317_001123	{#339999}{ol}[Лёд]{/}{/}probability #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд
 SKILL_20150317_001124	Психическое давление
 SKILL_20150317_001125	{#993399}{ol}[Магическая]{/}{/}{nl}Наносит урон по цели впереди себя.
-SKILL_20150317_001126	Attack #{SkillAtkAdd}#{nl}Всплеск #{CaptionRatio}#{nl}Потребляет #{CaptionRatio2}#%  SP в секунду.
+SKILL_20150317_001126	Атака #{SkillAtkAdd}#{nl}Всплеск #{CaptionRatio}#{nl}Потребляет #{CaptionRatio2}#%  SP в секунду.
 SKILL_20150317_001127	Телекинез
 SKILL_20150317_001128	{#993399}{ol}[Магическая]{/}{/}{nl}Заключает цель в сферу. {nl}Бросает цель в указанное направление и наносит урон.
 SKILL_20150317_001129	Attack #{SkillAtkAdd}#{nl}Attack count #{CaptionRatio}# times {nl}Длительность #{CaptionTime}# секунд
@@ -1162,7 +1162,7 @@ SKILL_20150317_001159	Делиться защитой и НР с выбранн�
 SKILL_20150317_001160	Physical Defense passed #{CaptionRatio}#{nl} HP recovery passed #{CaptionRatio2}#{nl}Длительность #{CaptionTime}# секунд
 SKILL_20150317_001161	Swell Left Arm
 SKILL_20150317_001162	Увеличивает левую руку при этом увеличивается показатель атаки.
-SKILL_20150317_001163	Физическая атака +#{CaptionRatio}#{nl}Magic attack #{CaptionRatio}#{nl}Длительность #{CaptionTime}# секунд
+SKILL_20150317_001163	Физическая атака +#{CaptionRatio}#{nl}Магическая атака #{CaptionRatio}#{nl}Длительность #{CaptionTime}# секунд
 SKILL_20150317_001164	Уменьшение Размера
 SKILL_20150317_001165	Уменьшает размер цели.
 SKILL_20150317_001166	Большой -> Средний -> Маленький {nl}Длительность #{CaptionTime}# секунд
@@ -1172,8 +1172,8 @@ SKILL_20150317_001169	Маленький -> Средний -> Большой {nl
 SKILL_20150317_001170	Transpose
 SKILL_20150317_001171	Временно меняет местами базовые харрактеристики INT и CON.
 SKILL_20150317_001172	Reversi Замена
-SKILL_20150317_001173	Меняет вражеский  магический круг на земле на союзный.
-SKILL_20150317_001174	Change enemy's magic circle in target area. {nl}Level 1 Master
+SKILL_20150317_001173	Меняет вражеский магический круг на земле на союзный.
+SKILL_20150317_001174	Меняет вражеский магический круг на земле. {nl}Level 1 Master
 SKILL_20150317_001175	Swell Right Arm
 SKILL_20150317_001176	Увеличивает правую руку при этом увеличивается показатель атаки.
 SKILL_20150317_001177	Использует мозг на полную
@@ -1181,17 +1181,17 @@ SKILL_20150317_001178	Увеличение Головы
 SKILL_20150317_001179	Electrocute
 SKILL_20150317_001180	{#993399}{ol}[Магическая] - [Молния]{/}{/}{nl}Запускает во врагов Цепную Молнию наносящую урон.
 SKILL_20150317_001181	Атака #{SkillAtkAdd}#{nl}Цель #{CaptionRatio}#
-SKILL_20150317_001182	Каменное Проклятье
+SKILL_20150317_001182	Stone Curse
 SKILL_20150317_001183	Проклинает цель превращая ее в камень.
 SKILL_20150317_001184	Длительность #{CaptionTime}# секунд{nl}Всплеск #{CaptionRatio}#
-SKILL_20150317_001185	Град
+SKILL_20150317_001185	Hail
 SKILL_20150317_001186	{#993399}{ol}[Магическая] - [Лёд]{/}{/}{n}Призывает Град из осколков льда наносящих урон врагам.
 SKILL_20150317_001187	Prominence
-SKILL_20150317_001188	{#993399}{ol}[Магическая] - [Огонь]{/}{/}{nl}Release prominences around. Prominences randomly moves and damage enemies.
+SKILL_20150317_001188	{#993399}{ol}[Магическая] - [Огонь]{/}{/}{nl}Создает вокруг себя Протуберанцы. Протуберанцы хаотично движутся атакуя врагов.
 SKILL_20150317_001189	Атака #{SkillAtkAdd}#{nl}Длительность 15 секунд
 SKILL_20150317_001190	Meteor
 SKILL_20150317_001191	{#993399}{ol}[Магическая] - [Огонь]{/}{/}{nl}Бросает метеор на указанную область нанося урон врагам.
-SKILL_20150317_001192	Attack #{SkillAtkAdd}#{nl}Время Чтения #{CaptionTime}# секунд{nl}Всплеск #{SkillSR}#
+SKILL_20150317_001192	Атака #{SkillAtkAdd}#{nl}Время Чтения #{CaptionTime}# секунд{nl}Всплеск #{SkillSR}#
 SKILL_20150317_001193	Summoning
 SKILL_20150317_001194	Призывает духов следующих за вами.
 SKILL_20150317_001195	Attack Ground
@@ -1202,7 +1202,7 @@ SKILL_20150317_001199	Variation
 SKILL_20150317_001200	Quicken
 SKILL_20150317_001201	Повышает скорость передвижения 1 союзника.
 SKILL_20150317_001202	Reincarnate
-SKILL_20150317_001203	Kill the monster with the buff, and the monster will appear again before it dies.
+SKILL_20150317_001203	Убейте монстра с положительным эффектом, и монстр снова появится перед смертью.
 SKILL_20150317_001204	{#6644FF}{ol}[Fire]{/}{/}Attribute {nl} Attack #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 секунд# damage {nl} Длительность 10 секунд {nl}Потребляет #{{nl} SpendSP}# SP
 SKILL_20150317_001205	Stop
 SKILL_20150317_001206	Удерживает монстров в указанном месте.Монстры прекращают все действия. 
@@ -1232,20 +1232,20 @@ SKILL_20150317_001229	Создает магический барьер блок�
 SKILL_20150317_001230	Lv.1 Длительность #{CaptionTime}# секунд, блокирует 6 ударов, целей #{CaptionRatio}# Lv.2 Длительность #{CaptionTime}# секунд, блокирует 6 ударов, целей #{CaptionRatio}# Lv.3 Длительность #{CaptionTime}# sсекунд, блокирует 6 ударов, целей #{CaptionRatio}#
 SKILL_20150317_001231	Создает барьер из тумана перед собой. Точность врагов в тумане уменьшается.
 SKILL_20150317_001232	Длительность #{CaptionTime}# секунд, Точность -#{CaptionRatio}#%{nl}Потребляет  #{SpendSP}# SP
-SKILL_20150317_001233	Shock the enemies under [Freeze] nearby and inflict damage.
-SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Всплеск #{SkillSR}# Lv.2 Attack rate #{SkillFactor}#, Всплеск #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Всплеск #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Всплеск #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Всплеск #{SkillSR}#
+SKILL_20150317_001233	Шокирует врагов под [Заморозка] поблизости и наносит урон.
+SKILL_20150317_001234	Lv.1 Коэффициент атаки #{SkillFactor}#, Всплеск #{SkillSR}# Lv.2 Коэффициент атаки #{SkillFactor}#, Всплеск #{SkillSR}# Lv.3 Коэффициент атаки #{SkillFactor}#, Всплеск #{SkillSR}# Lv.4 Коэффициент атаки #{SkillFactor}#, Всплеск #{SkillSR}# Lv.5 Коэффициент атаки #{SkillFactor}#, Всплеск #{SkillSR}#
 SKILL_20150317_001235	Накладывает [Проклятие] на цель и понижает защиту.
-SKILL_20150317_001236	Lv.1 Защита, Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд. Lv.2 Защита, Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд. Lv. 3 Защита, Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# second Lv.4 Defense, Magic resistance - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# second Lv.5 Defense , Magic resistance - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# second
-SKILL_20150317_001237	Inflict damage on target under [Curse]. Every 3rd attack inflicts greater damage.
-SKILL_20150317_001238	Lv.1 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.2 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.3 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.4Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.5 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}#
+SKILL_20150317_001236	Lv.1 Защита, Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд. Lv.2 Защита, Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд. Lv. 3 Защита, Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд Ур.4 Защита, Magic resistance - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# секунд Lv.5 Защита , Сопротивление магии - #{CaptionRatio}#% {nl}Длительность #{CaptionTime}# second
+SKILL_20150317_001237	Наносит урон цели под [Проклятие]. Каждая 3-я атака наносит больший урон.
+SKILL_20150317_001238	Lv.1 Коэффициент атаки #{SkillFactor}#, Коэффициент атаки каждая 3-я атака #{CaptionRatio}#{nl}Дистанция #{Arg1}# Lv.2 Коэффициент атаки #{SkillFactor}#, Коэффициент атаки каждая 3-я атака #{CaptionRatio}#{nl}Range #{Arg1}# Lv.3 Коэффициент атаки #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Ур.4 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}# Lv.5 Attack rate #{SkillFactor}#, Attack rate every 3rd attack #{CaptionRatio}#{nl}Range #{Arg1}#
 SKILL_20150317_001239	Damage nearby enemies by summoning an aura of [Addiction] to user.
-SKILL_20150317_001240	Lv.1 attack rate #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.2 attack rate every #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.3 attack rate every #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.4 attack rate every #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.5 attack rate every #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд
-SKILL_20150317_001241	Paint Noir of War on the floor. Strength and intelligence of allies that receive the buff will increase.
-SKILL_20150317_001242	Lv.1 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.2 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.3 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.4 STR, INT+ #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv. 5 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes
-SKILL_20150317_001243	Draw Noir of Death on ground. Allies receive increased CON and AGI from it.
-SKILL_20150317_001244	Lv.1 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl}Skill duration #{CaptionTime}# секунд,Buff duration 2 minutes Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.3 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.4 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv. 5 CON, AGI + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes
+SKILL_20150317_001240	Lv.1 attack rate #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.2 Коэффициент атаки каждые #{SkillFactor}# урон каждые 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.3 Коэффициент атаки каждые #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Ур.4 attack rate every #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд Lv.5 attack rate every #{SkillFactor}# of damage every 0.5 секунд {nl}Длительность #{CaptionTime}# секунд
+SKILL_20150317_001241	Рисует Noir of War на земле. Союзники получают увеличение STR и INT  находясь на нем.
+SKILL_20150317_001242	Lv.1 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, длительность Эффекта 2 минуты Lv.2 STR, INT + #{CaptionRatio2}#, Макс. целей #{CaptionRatio}#{nl} Skill длительност #{CaptionTime}# секунд, длительность Эффекта 2 минуты  Ур.3 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.4 STR, INT+ #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv. 5 STR, INT + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes
+SKILL_20150317_001243	Рисует Noir of Death на земле. Союзники получают увеличение CON и AGI находясь на нем.
+SKILL_20150317_001244	Lv.1 CON, AGI +#{CaptionRatio2}#, Макс. Целей #{CaptionRatio}#{nl}Длительность Умения #{CaptionTime}# секунд, длительность Эффекта 2 минуты Lv.2 CON, AGI + #{CaptionRatio2}#, Max #{CaptionRatio}#{nl} Skill длительность #{CaptionTime}# секунд, длительность Эффекта 2 минуты Lv.3 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv.4 CON, AGI +#{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes Lv. 5 CON, AGI + #{CaptionRatio2}#, Max. target #{CaptionRatio}#{nl} Skill duration #{CaptionTime}# секунд, Buff duration 2 minutes
 SKILL_20150317_001245	Currently in development
-SKILL_20150317_001246	Summon magic circle that heals allies.
+SKILL_20150317_001246	Призывает магический круг исцелающий союзников.
 SKILL_20150317_001247	Marble
 SKILL_20150317_001248	Black Hole
 SKILL_20150317_001249	Change HP and SP and create defense shield.
