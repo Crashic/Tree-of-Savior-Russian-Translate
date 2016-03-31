@@ -1,4 +1,4 @@
-ETC_20150317_000001	Kepa
+﻿ETC_20150317_000001	Kepa
 ETC_20150317_000002	Kepa - не очень сильный монстр. Однако непродуманная атака может заставить тебя плакать.
 ETC_20150317_000003	Огромная Kepa
 ETC_20150317_000004	Есть люди, которые иногда пробуют съесть огромную Kepa. Не дай им этого сделать.
@@ -103,29 +103,29 @@ ETC_20150317_000102	Огромный, сильный, тяжелый монст�
 ETC_20150317_000103	Большой Зеленый Griba
 ETC_20150317_000104	Большой Красный Griba
 ETC_20150317_000105	Старая Kepa
-ETC_20150317_000106	Kepa age quickly at the expense of their strength. Be careful of its pungent odor, which has gotten stronger with age.
+ETC_20150317_000106	Старые Kepa быстры за счет их силы. Будьте осторожны с его едким запахом, который стал более сильным с возрастом..
 ETC_20150317_000107	Gelsvas Old Kepa
 ETC_20150317_000108	Black Old Kepa
 ETC_20150317_000109	Red Old Kepa
-ETC_20150317_000110	Its dilapidated color from aging only substantiates its danger.
+ETC_20150317_000110	Его выцветшая от старости окраска подтверждает его опасность..
 ETC_20150317_000111	Large Old Kepa
 ETC_20150317_000112	Rafflesia
 ETC_20150317_000113	Green Rafflesia
 ETC_20150317_000114	Black Rafflesia
-ETC_20150317_000115	This plant's leaves are stronger than leather.
+ETC_20150317_000115	Листья этого растения прочнее кожи.
 ETC_20150317_000116	Red Rafflesia
 ETC_20150317_000117	Raffly
-ETC_20150317_000118	Even after undergoing mutations, Raffly continue to hunt small insects.
+ETC_20150317_000118	Даже после произошедших мутаций, Raffly по-прежнему охотятся на мелких насекомых.
 ETC_20150317_000119	Blue Raffly
 ETC_20150317_000120	Gray Raffly
 ETC_20150317_000121	Black Raffly
 ETC_20150317_000122	Ridimed
 ETC_20150317_000123	Blue Ridimed
-ETC_20150317_000124	Even though it mutated from a herb, its entire body is now made of solid wood.
+ETC_20150317_000124	Несмотря на то, что он мутировал из травы, все его тело теперь из древесины.
 ETC_20150317_000125	Black Ridimed
 ETC_20150317_000126	Red Ridimed
 ETC_20150317_000127	Sakmoli
-ETC_20150317_000128	Attacking its legs will not cause it to topple over.
+ETC_20150317_000128	Атака на его ноги не заставит его сваливаться.
 ETC_20150317_000129	Green Sakmoli
 ETC_20150317_000130	Orange Sakmoli
 ETC_20150317_000131	Black Sakmoli
@@ -1335,10 +1335,10 @@ ETC_20150317_001334	{memo X}Pilgrimage Trail 31_1
 ETC_20150317_001335	{memo X}Pilgrimage Trail 31_2
 ETC_20150317_001336	{memo X}Pilgrimage Trail 31_3
 ETC_20150317_001337	{memo X}Petrified City 58
-ETC_20150317_001338	Barracks
-ETC_20150317_001339	{memo X}Barracks2
-ETC_20150317_001340	{memo X}Pyromancer Barracks
-ETC_20150317_001341	{memo X}Noble Barracks
+ETC_20150317_001338	Казармы
+ETC_20150317_001339	{memo X}Казармы2
+ETC_20150317_001340	{memo X}Казармы пиромантов
+ETC_20150317_001341	{memo X}Дворянские казармы 
 ETC_20150317_001342	Pub
 ETC_20150317_001343	Test Zone
 ETC_20150317_001344	Test 2
@@ -1456,32 +1456,32 @@ ETC_20150317_001455	Please adjust your screen resolution to at least 1024x768 an
 ETC_20150317_001456	The client has been shutdown due to a display driver error. {nl} Please contact the manufacturer for assistance
 ETC_20150317_001457	The client has been shutdown due to a audio driver error. {nl} Please install or reinstall the audio driver.
 ETC_20150317_001458	Background data does not exist. Please download all data and try again.
-ETC_20150317_001459	You cannot whisper to yourself.
+ETC_20150317_001459	Вы не можете написать себе.
 ETC_20150317_001460	Chat can not exceed {Max} bytes. Number of emoticons usable are limited because it may take several bytes.
 ETC_20150317_001461	Duration
 ETC_20150317_001462	User
-ETC_20150317_001463	Time Left
+ETC_20150317_001463	Время вышло.
 ETC_20150317_001464	Имя
-ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Your name cannot exceed 16 characters {nl} including blank spaces.
-ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Disconnected from the server.{nl}
-ETC_20150317_001467	{memo X}{S18}{ol}{#ffffcc}Move to the login mode after 3 seconds.
-ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}Cannot connect to server.
-ETC_20150317_001469	{memo X}{S18}{ol}{#ffffcc}Your ID exceeds the maximum length allowed.
-ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Your username or password is incorrect. {nl} Please note that passwords are case sensitive.
-ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Server shutdown is not completed, or you are already logged in.{nl} Server shutdown may take up to 3 minutes.
-ETC_20150317_001472	{memo X}{S18}{ol}{#ffffcc}Wrong verification code.
-ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}This name already exists. {nl} Please enter a different name.
-ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}You cannot create a character.
-ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}You cannot delete this character.
-ETC_20150317_001476	Team does not exist
-ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}This character does not exist
+ETC_20150317_001465	{memo X}{S18}{ol}{#ffffcc}Ваше имя не может содержать больше 16 символов{nl}включая пробелы.
+ETC_20150317_001466	{memo X}{S18}{ol}{#ffffcc}Соединение с сервером разорвано.
+ETC_20150317_001467	{memo X}{S18}{ol}{#ffffcc}Переход к окну авторизации через 3 секунды.
+ETC_20150317_001468	{memo X}{S18}{ol}{#ffffcc}Невозможно соединиться с сервером.
+ETC_20150317_001469	{memo X}{S18}{ol}{#ffffcc}Ваш ID превышает максимальную допустимую длину.
+ETC_20150317_001470	{memo X}{S18}{ol}{#ffffcc}Неверное имя пользователя или пароль.{nl}Пожалуйста, обратите внимание, что пароль чувствителен к регистру.
+ETC_20150317_001471	{memo X}{S18}{ol}{#ffffcc}Отключение от сервера не завершено, или вы уже вошли.{nl}Отключение от сервера может занять до 3 минут.
+ETC_20150317_001472	{memo X}{S18}{ol}{#ffffcc}Неправильный Код подтверждения.
+ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}Это имя занято.{nl}Пожалуйста, введите другое имя.
+ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}Вы не можете создать персонажа.
+ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}Вы не можете удалить этого персонажа.
+ETC_20150317_001476	Команда не существует
+ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}Этот персонаж не существует
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{memo X}{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
 ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
 ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
 ETC_20150317_001482	Your inventory is full
 ETC_20150317_001483	Этот сервер закрыт.
-ETC_20150317_001484	This item cannot be equipped
+ETC_20150317_001484	Вы не можете одеть эту экиперовку
 ETC_20150317_001485	[{Word}] is not allowed for use.
 ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
 ETC_20150317_001487	Server version does not match
@@ -1609,7 +1609,7 @@ ETC_20150317_001608	Changed
 ETC_20150317_001609	It is too close to the existing Ice Barrier
 ETC_20150317_001610	You have already learned this attribute.
 ETC_20150317_001611	{memo X}{S18}{ol}{#ffffcc} Do you want to learn this attribute?
-ETC_20150317_001612	Enter the number
+ETC_20150317_001612	Введите количество предметов
 ETC_20150317_001613	This item cannot be traded
 ETC_20150317_001614	You cannot rest during combat
 ETC_20150317_001615	The other player is not logged in
@@ -1628,7 +1628,7 @@ ETC_20150317_001627	Combination of possible equipment:
 ETC_20150317_001628	Return
 ETC_20150317_001629	{@st59}Заблокировать слоты.{/}
 ETC_20150317_001630	{@st59}Разблокировать слоты.{/}
-ETC_20150317_001631	{@st59} Вернуться (Backspace) {/}
+ETC_20150317_001631	{@st59}Вернуться (Backspace){/}
 ETC_20150317_001632	Are you sure you want to delete? {/}
 ETC_20150317_001633	Cannot be used while the character is dead.
 ETC_20150317_001634	{@st59} Move {/}
@@ -1641,17 +1641,17 @@ ETC_20150317_001640	Unavailable in the current map.
 ETC_20150317_001641	[{The}] feature is enabled.
 ETC_20150317_001642	[{Ability}] triggered!
 ETC_20150317_001643	Remaining Time: {Auto_1}
-ETC_20150317_001644	Cегодняшний совет : 
+ETC_20150317_001644	Совет дня: 
 ETC_20150317_001645	You cannot equip this equipment in this slot.
 ETC_20150317_001646	Do you really wish to quit?
 ETC_20150317_001647	{S20}{ol}{#ff1100} This attribute cannot be bought.
 ETC_20150317_001648	You cannot equip items with 0 durability.
 ETC_20150317_001649	Delete
 ETC_20150317_001650	The server has disconnected. Please try again later.
-ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} часов {Min} минут {Sec} секунд
+ETC_20150317_001651	{Day}/{Month}/{Year} - {Hour} часов {Min} минут {Sec} секунд
 ETC_20150317_001652	Read more
 ETC_20150317_001653	You cannot change your equipment before picking up a thrown item.
-ETC_20150317_001654	{Month} {Day}
+ETC_20150317_001654	{Day} {Month}
 ETC_20150317_001655	{Day}
 ETC_20150317_001656	{Hour} ч 
 ETC_20150317_001657	{Min} мин 
@@ -1663,7 +1663,7 @@ ETC_20150317_001662	Мужской
 ETC_20150317_001663	Женский
 ETC_20150317_001664	{Month}
 ETC_20150317_001665	{Year}
-ETC_20150317_001666	This channel is full.
+ETC_20150317_001666	Этот канал заполнен.
 ETC_20150317_001667	This skill cannot be used whilst riding your Companion.
 ETC_20150317_001668	A skill that can be used only while riding your Companion.
 ETC_20150317_001669	Must be at least {LEN} characters.
@@ -1673,7 +1673,7 @@ ETC_20150317_001672	You cannot ride during Rest Mode.
 ETC_20150317_001673	You cannot ride on a fainted Companion.
 ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	You have been been banned by the administrator.
-ETC_20150317_001676	{Name} ({Mapname} / Channel {ChNo})
+ETC_20150317_001676	{Name} ({Mapname} / Канал {ChNo})
 ETC_20150317_001677	This skill cannot be crafted.
 ETC_20150317_001678	{memo X}{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl} {nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
 ETC_20150317_001679	You do not have enough Potential to enhance this item
@@ -1691,8 +1691,8 @@ ETC_20150317_001690	Cancel Enhancement
 ETC_20150317_001691	Deposit
 ETC_20150317_001692	Re-enhance
 ETC_20150317_001693	Click an item to enhance
-ETC_20150317_001694	Успех !!!
-ETC_20150317_001695	Неудача!!!
+ETC_20150317_001694	Успех
+ETC_20150317_001695	Неудача
 ETC_20150317_001696	There is no empty socket that matches this type.
 ETC_20150317_001697	Поместите предмет, который вы хотите {nl}улучшить.
 ETC_20150317_001698	{memo X}Card Enhancement
@@ -1730,7 +1730,7 @@ ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
 ETC_20150317_001731	Получено
 ETC_20150317_001732	Place the card into the slot to equip it.
-ETC_20150317_001733	Repair Cost: {Price}{nl} Are you sure you want to repair?
+ETC_20150317_001733	Цена починки: {Price}{nl}Вы уверены что хотите починиться?
 ETC_20150317_001734	Undecided
 ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
@@ -1748,17 +1748,17 @@ ETC_20150317_001747	Show All
 ETC_20150317_001748	Расходуемый
 ETC_20150317_001749	Книги
 ETC_20150317_001750	Money
-ETC_20150317_001751	Доп-оружие
+ETC_20150317_001751	Доп.оружие
 ETC_20150317_001752	Палка
 ETC_20150317_001753	Пиджак
 ETC_20150317_001754	Шапка
 ETC_20150317_001755	Двуручное копье
 ETC_20150317_001756	Place an item.
 ETC_20150317_001757	Gems
-ETC_20150317_001758	Socket
+ETC_20150317_001758	Слот
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
-ETC_20150317_001760	Please select an item to repair.
-ETC_20150317_001761	There is no item to repair.
+ETC_20150317_001760	Пожалуйста выбирите предметы{nl}для починки.
+ETC_20150317_001761	Этот предмет нельзя починить.
 ETC_20150317_001762	Not possible on this item type.
 ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"} 
 ETC_20150317_001764	You do not have enough Potential to trade.
@@ -1766,9 +1766,9 @@ ETC_20150317_001765	Please select an item.
 ETC_20150317_001766	Do you want to consume the selected items to create poison?
 ETC_20150317_001767	Cannot be used within the same area.
 ETC_20150317_001768	{memo X}Item in buff
-ETC_20150317_001769	Types
+ETC_20150317_001769	Тип
 ETC_20150317_001770	Companion Equipment
-ETC_20150317_001771	Repair Completed
+ETC_20150317_001771	Починка завершена
 ETC_20150317_001772	Броня компаньона
 ETC_20150317_001773	Оружие компаньона
 ETC_20150317_001774	Шлем
@@ -1786,7 +1786,7 @@ ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	Вес: {All} / {Max}
 ETC_20150317_001788	Вес ({Rate}%)
-ETC_20150317_001789	Без гнезд
+ETC_20150317_001789	Без слота
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
 ETC_20150317_001792	Ranker of Tournament {Auto_1} Round
@@ -1841,7 +1841,7 @@ ETC_20150317_001840	OK
 ETC_20150317_001841	Да
 ETC_20150317_001842	Нет
 ETC_20150317_001843	Message
-ETC_20150317_001844	[Notice]
+ETC_20150317_001844	[Уведомление]
 ETC_20150317_001845	Full
 ETC_20150317_001846	Logout
 ETC_20150317_001847	{Ul} item! {/}
@@ -1874,11 +1874,11 @@ ETC_20150317_001873	Inheritance
 ETC_20150317_001874	Start
 ETC_20150317_001875	Join
 ETC_20150317_001876	Obtained item
-ETC_20150317_001877	Accessory
+ETC_20150317_001877	Аксессуары
 ETC_20150317_001878	Set
 ETC_20150317_001879	{memo X}Recipe
-ETC_20150317_001880	Active Skill
-ETC_20150317_001881	Passive Skill
+ETC_20150317_001880	Активный навык
+ETC_20150317_001881	Пассивный навык
 ETC_20150317_001882	1. Write a message to promote your sale.
 ETC_20150317_001883	2. Insert items for sale into the bottom slot.
 ETC_20150317_001884	1. Write a message to promote your purchase.
@@ -1968,8 +1968,8 @@ ETC_20150317_001967	Личное сообщение
 ETC_20150317_001968	Right-click to equip
 ETC_20150317_001969	Right-click to sell
 ETC_20150317_001970	Right-click to remove
-ETC_20150317_001971	 Level or higher
-ETC_20150317_001972	Repair Cost
+ETC_20150317_001971	 уровень или выше
+ETC_20150317_001972	Цена починки
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used
 ETC_20150317_001974	Item Rarity
 ETC_20150317_001975	Available
@@ -2817,7 +2817,7 @@ ETC_20150317_002816	Обычная
 ETC_20150317_002817	Тяжелая
 ETC_20150317_002818	Очень тяжелая
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
-ETC_20150317_002820	Область: 
+ETC_20150317_002820	Местность: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Подойдите к NPC и нажмите 
@@ -2927,8 +2927,8 @@ ETC_20150317_002926	The trade was canceled.
 ETC_20150317_002927	The trade was successful. 
 ETC_20150317_002928	Send a trade request to {To}.
 ETC_20150317_002929	No save point specified
-ETC_20150317_002930	You have an item with less than 30% durability remaining.
-ETC_20150317_002931	You have an item with 0 durability.
+ETC_20150317_002930	У вас есть экиперовка с прочностью менее чем 30%.
+ETC_20150317_002931	У вас есть экиперовка с прочностью 0.
 ETC_20150317_002932	This equipped item cannot be consumed.
 ETC_20150317_002933	This enhanced item cannot be consumed.
 ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
@@ -3111,16 +3111,16 @@ ETC_20150317_003110	Insufficient It tag participants
 ETC_20150317_003111	Give session to PC participant
 ETC_20150317_003112	End It tag
 ETC_20150317_003113	{memo X}A Treasure Vubbe has appeared!
-ETC_20150317_003114	The inhibiting group has been destroyed. Please start the quest again!
-ETC_20150317_003115	Close
-ETC_20150317_003116	Monument leading to the  second floor appeared
-ETC_20150317_003117	Monument leading to the  second floor appeared {nl}
-ETC_20150317_003118	Protect the group leader!
-ETC_20150317_003119	Stop them!
-ETC_20150317_003120	Help!
-ETC_20150317_003121	Where did they come from??
-ETC_20150317_003122	Ugh!
-ETC_20150317_003123	Watch out for the monsters.
+ETC_20150317_003114	Сдерживающая группа была уничтожена. Пожалуйста, начните задание снова!
+ETC_20150317_003115	Закрыть
+ETC_20150317_003116	Появился монумент, ведущий на второй этаж
+ETC_20150317_003117	Появился монумент, ведущий на второй этаж  {nl}
+ETC_20150317_003118	Защищайте лидера группы!
+ETC_20150317_003119	Остановите их!
+ETC_20150317_003120	Помогите!
+ETC_20150317_003121	Откуда они пришли??
+ETC_20150317_003122	Уф!
+ETC_20150317_003123	Следите за монстрами.
 ETC_20150317_003124	Aggressive plants appear in this area
 ETC_20150317_003125	Monsters will attack you so avoid them when they approach
 ETC_20150317_003126	Wish me good luck
@@ -3135,8 +3135,8 @@ ETC_20150317_003134	on loop
 ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
-ETC_20150317_003138	Accept Mission
-ETC_20150317_003139	Cancel
+ETC_20150317_003138	Взять задание
+ETC_20150317_003139	Отмена
 ETC_20150317_003140	Can be traded right away through instant shop
 ETC_20150317_003141	Opening lock
 ETC_20150317_003142	Empty box
@@ -4338,9 +4338,9 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Увеличивает HP, Восстановление HP, Критическое Сопротивление, Максимальный Переносимый Вес.{/}
+ETC_20150317_004341	{@st59}Увеличивает HP,{nl}Восстановление HP,{nl}Критическое сопротивление,{nl}Максимально переносимый вес.{/}
 ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Увеличивает меткость, Уворот и Шанс Критической Атаки. {/}
+ETC_20150317_004343	{@st59}Увеличивает меткость,{nl}Уворот и{nl}Шанс критической атаки. {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -4693,7 +4693,7 @@ ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
 ETC_20150317_004695	{memo X}{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Эффект предмета :
+ETC_20150317_004696	{#050505}{s22}{b}Эффект предмета:
 ETC_20150317_004697	{@st42} Use
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
@@ -4710,16 +4710,16 @@ ETC_20150317_004709	{@st42b} My Adventure
 ETC_20150317_004710	Special compensation
 ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
-ETC_20150317_004713	You do not have enough silver.
+ETC_20150317_004713	У вас не достаточно серебра.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
 ETC_20150317_004718	Общий чат
 ETC_20150317_004719	Групповой чат
-ETC_20150317_004720	Group
+ETC_20150317_004720	Группа
 ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004722	Система
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	Minimum:
 ETC_20150317_004725	Maximum:
@@ -4805,31 +4805,31 @@ ETC_20150317_004804	Enhancing the Thorn Flower Powder Stimulant
 ETC_20150317_004805	Drank the stimulant
 ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Obtaining the Revelation
-ETC_20150317_004808	Repair
-ETC_20150317_004809	Secondary Equipment
-ETC_20150317_004810	One-handed Sword
-ETC_20150317_004811	Two-handed Sword
-ETC_20150317_004812	Rod
-ETC_20150317_004813	Staff
-ETC_20150317_004814	Bow
-ETC_20150317_004815	Crossbow
-ETC_20150317_004816	Blunt
-ETC_20150317_004817	Wand
-ETC_20150317_004818	One-handed Spear
-ETC_20150317_004819	Two-handed Spear
-ETC_20150317_004820	Shield
-ETC_20150317_004821	Dagger
+ETC_20150317_004808	Ремонт
+ETC_20150317_004809	Вторичная Экипировка
+ETC_20150317_004810	Одноручный Меч
+ETC_20150317_004811	Двуручный Меч
+ETC_20150317_004812	Жезл
+ETC_20150317_004813	Посох
+ETC_20150317_004814	Лук
+ETC_20150317_004815	Арбалет
+ETC_20150317_004816	Молот
+ETC_20150317_004817	Палочка
+ETC_20150317_004818	Одноручное Копье
+ETC_20150317_004819	Двуручное копье
+ETC_20150317_004820	Щит
+ETC_20150317_004821	Кинжал
 ETC_20150317_004822	Woah, what's this taste?
 ETC_20150317_004823	It's so good!
 ETC_20150317_004824	*munch munch gulp gulp*
-ETC_20150317_004825	You must learn the necessary attribute to equip this item.
+ETC_20150317_004825	Вы должны выучить необходимый атрибут для экипировки этого предмета.
 ETC_20150317_004826	Learn immediately
-ETC_20150317_004827	Buy items for Companion
-ETC_20150317_004828	Adopt Companion
-ETC_20150317_004829	Train Companion
-ETC_20150317_004830	Not available in Klaipeda.
-ETC_20150317_004831	Tool Shop
-ETC_20150317_004832	Benefits of having a Companion
+ETC_20150317_004827	Купить предметы для Компаньона
+ETC_20150317_004828	Купить Компаньона
+ETC_20150317_004829	Тренировать Компаньона
+ETC_20150317_004830	Не доступно в Klaipeda.
+ETC_20150317_004831	Магазин Инструментов
+ETC_20150317_004832	Преимущества Компаньона
 ETC_20150317_004833	{memo X}Defeat the monsters guarding the Demon magic circle.
 ETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Spiritually Enchanted Sap
@@ -6112,7 +6112,7 @@ ETC_20150317_006112	{memo X}Right-click on the gem to highlight items in your in
 ETC_20150317_006113	{memo X}The Gem will be inserted into the item that you select.
 ETC_20150317_006114	{memo X}Gems inserted can be seen in the item tooltip.
 ETC_20150317_006115	{memo X}To remove the a Gem, use {nl}
-ETC_20150317_006116	Socket Management
+ETC_20150317_006116	Управление слотами
 ETC_20150317_006117	Gem Extraction
 ETC_20150317_006118	{memo X} .
 ETC_20150317_006119	{memo X}Caution: Potential is consumed when you remove Gems.
@@ -9192,10 +9192,10 @@ ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Electricity)
 ETC_20150317_009194	Practice Post (Earth)
 ETC_20150317_009195	{memo X}[Item Merchant]{nl}         Mirina
-ETC_20150317_009196	[Equipment Merchant]{nl}                 Dunkel
-ETC_20150317_009197	[Accessory Merchant]{nl}                Ronesa
+ETC_20150317_009196	[Продавец снаряжения]{nl}                Dunkel
+ETC_20150317_009197	[Продавец аксессуаров]{nl}                Ronesa
 ETC_20150317_009198	Klaipeda Goddess Statue
-ETC_20150317_009199	[Blacksmith]{nl}       Zaras
+ETC_20150317_009199	[Кузнец]{nl}    Zaras
 ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
 ETC_20150317_009201	[Cryomancer Master]{nl}    Alistair Crowley
 ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
@@ -9206,9 +9206,9 @@ ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller
 ETC_20150317_009207	[Cleric Master]{nl}       Rozaliia
 ETC_20150317_009208	[Priest Master]{nl}       Boruble
 ETC_20150317_009209	[Krivis Master]{nl}       Herkus
-ETC_20150317_009210	{memo X}[Auctioneer]{nl} Demares
-ETC_20150317_009211	[Market Manager]{nl}             Logi
-ETC_20150317_009212	[Companion Trader]{nl}            Christina
+ETC_20150317_009210	{memo X}[Аукционер]{nl} Demares
+ETC_20150317_009211	[Аукционер]{nl}             Logi
+ETC_20150317_009212	[Продавец  Компаньонов]{nl}            Christina
 ETC_20150317_009213	{memo X}[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
 ETC_20150317_009215	[Magical Association Klaipeda Branch]{nl}                              Henrikka
@@ -13598,7 +13598,7 @@ ETC_20150717_013599	There is an instant shop registered {nl}Register instant sho
 ETC_20150717_013600	You have lit the bonfire!
 ETC_20150717_013601	It is already on fire!
 ETC_20150717_013602	{memo X}[Tools Merchant]{nl}     Anna
-ETC_20150717_013603	[Item Merchant]{nl}           Mirina
+ETC_20150717_013603	[Продавец предметов]{nl}               Mirina
 ETC_20150717_013604	Spell Control Magic Circle.
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	{memo X}The corpse of the Kingdom Army Guard
@@ -13610,7 +13610,7 @@ ETC_20150717_013611	{memo X}Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
-ETC_20150717_013615	{@st59}Увеличивает Магическую Атаку{/}
+ETC_20150717_013615	{@st59}Увеличивает магическую атаку{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Mine Trap
 ETC_20150729_013618	Basic Trap
@@ -13692,7 +13692,7 @@ ETC_20150729_013693	Нажмите{img M 40 40}для просмотра кар�
 ETC_20150729_013694	{nl} {nl}Значки на миникарте отображают {nl}информацию и местоположение NPC в {nl}области на текущей карте.{nl} {nl}{img minimap_leader 25 25} указывает ваше местоположение. {nl}{img minimap_1_MAIN 25 25} указывает цель задания. {nl}{img minimap_0 25 25} указывает расположение важных NPC. {nl}{img minimap_goddess 25 25} указывает Статую Богини для {nl}       перемещения. {nl}{img minimap_board 25 25} указывает на доску объявлений, {nl}       содержащую различную информацию. {nl}{img minimap_portal 25 25} указывает путь для перемещения в {nl}       другие области.{nl} {nl}
 ETC_20150729_013695	Нажмите {img N 40 40} что бы открыть Карту Мира.
 ETC_20150729_013696	Только области, которые вы уже открыли, {nl}будут отображаться на Карте Мира. {nl}Неразведанные области не будут {nl}отображаться на Карте Мира.
-ETC_20150729_013697	Наведите курсор на разведанную область, {nl}чтобы увидеть детальную карту.
+ETC_20150729_013697	Наведите курсор на разведанную местность, {nl}чтобы увидеть детальную карту.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
@@ -13963,7 +13963,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	{memo X}The terminal rejected accesss!
 ETC_20150729_013966	{memo X}You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	{memo X}Obtained all core required.
-ETC_20150729_013968	{@st59}Увеличивает Макс. SP, Востановление SP, Блокировку Пробития и Магическую защиту.{/}
+ETC_20150729_013968	{@st59}Увеличивает SP,{nl}Востановление SP,{nl}Блокировку пробития,{nl}Магическую защиту.{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Увеличивает Физическую, Критическую Атаки и Максимальный Переносимый Вес.{/}
+ETC_20150729_014017	{@st59}Увеличивает физическую,{nl}Критическую атаки,{nl}Максимально переносимый вес.{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
@@ -14593,7 +14593,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Вспомогательная Физическая Атака
+ETC_20150918_014598	Вспомогательная Физ. Атака
 ETC_20150918_014599	Seconday Magical Attack
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
@@ -15820,10 +15820,10 @@ ETC_20151016_015815	Cannoneer Advancement	캐노니어 전직	ETC_20150317_00868
 ETC_20151016_015816	Musketeer Advancement	머스킷티어 전직	ETC_20150317_008686	Monk Advancement	몽크 전직	
 ETC_20151016_015817	Plague Doctor Advancement	플레이그닥터 전직	ETC_20150317_008696	Remove Zombie Status	좀비상태 해제	
 ETC_20151016_015818	Kabbalist Advancement	카발리스트 전직	ETC_20150317_008697	View object state	오브젝트 상태 보기	
-ETC_20151016_015819	By Grade	등급순				
-ETC_20151016_015820	By Weight	무게순				
-ETC_20151016_015821	By Price	가격순				
-ETC_20151016_015822	By Name	이름순				
+ETC_20151016_015819	По классу	등급순				
+ETC_20151016_015820	По весу	무게순				
+ETC_20151016_015821	По цене	가격순				
+ETC_20151016_015822	По названию	이름순				
 ETC_20151016_015823	The pole that was hidden	숨겨져 있던 기둥	ETC_20151001_015041	{memo X}Summon Pillar	소환 기둥	
 ETC_20151016_015824	The benefits of Kedora Merchants!	케도라 상단의 혜택!	ETC_20151001_015044	{memo X}The blessing of Kedoraomer Merchants!	케도라오머 상단의 축복!	
 ETC_20151016_015825	Already detected	이미 발견 했습니다	ETC_20151001_015063	{memo X}You've found the place where the divine object is located	이미 성물이 있는 곳을 발견 했습니다	
